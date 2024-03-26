@@ -1,0 +1,9 @@
+stage_name,
+Load Dataset,1.834446188
+Clean Dataset,2.238572174
+NER Tag Dataset,2588.498841
+Encode Job Titles,20.14602177
+Predict Job Titles,10.63394023
+Encode Location,18.90438727
+Predict Locations,3.697503343
+Merge DF,10.92012719

@@ -1,0 +1,2225 @@
+,occupation_name,state_name,label,value
+0,Assemblers,Alabama,employment,0.0017408988758737776
+1,Building and Related Trades Workers (excluding Electricians),Alabama,employment,0.007369749757257429
+2,Business and administration professionals,Alabama,employment,0.01300305394473304
+3,"Chief executives, senior officials and legislators",Alabama,employment,0.010292210506485107
+4,Cleaners and helpers,Alabama,employment,0.00637919520575245
+5,Commissioned armed forces officers,Alabama,employment,0.0017077196813516566
+6,Drivers and mobile plant operators,Alabama,employment,0.011337768982482016
+7,Electrical and Electronics Trades Workers,Alabama,employment,0.0035436755955560407
+8,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Alabama,employment,0.006111113700173
+9,General and keyboard clerks,Alabama,employment,0.012372265811790439
+10,Handicraft and printing workers,Alabama,employment,0.0017695128178492336
+11,Health professionals,Alabama,employment,0.012818080079144008
+12,Information and communications technology professionals,Alabama,employment,0.006207914705201498
+13,"Labourers in mining, construction, manufacturing and transport",Alabama,employment,0.010608274153571873
+14,"Legal, social and cultural professionals",Alabama,employment,0.006165896391069281
+15,Market-oriented skilled agricultural workers,Alabama,employment,0.001962109822227368
+16,"Metal, machinery and related trades workers",Alabama,employment,0.012236481675885022
+17,Personal service workers,Alabama,employment,0.015067533422132082
+18,Production and Specialized Services Managers,Alabama,employment,0.007628928607716346
+19,Sales workers,Alabama,employment,0.01204862892476662
+20,Science and engineering professionals,Alabama,employment,0.007849687334467897
+21,Stationary plant and machine operators,Alabama,employment,0.00462390723629895
+22,Teaching professionals,Alabama,employment,0.010017786674451289
+23,Assemblers,Alabama,job_offer_data,0.0016544850275277444
+24,Building and Related Trades Workers (excluding Electricians),Alabama,job_offer_data,0.007333445806688509
+25,Business and administration professionals,Alabama,job_offer_data,0.012986950233065609
+26,"Chief executives, senior officials and legislators",Alabama,job_offer_data,0.010234529803604005
+27,Cleaners and helpers,Alabama,job_offer_data,0.006343252993796015
+28,Commissioned armed forces officers,Alabama,job_offer_data,0.0016276408947838703
+29,Drivers and mobile plant operators,Alabama,job_offer_data,0.011343941852683592
+30,Electrical and Electronics Trades Workers,Alabama,job_offer_data,0.003484556374523492
+31,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Alabama,job_offer_data,0.006065083241569623
+32,General and keyboard clerks,Alabama,job_offer_data,0.012362515364476388
+33,Handicraft and printing workers,Alabama,job_offer_data,0.0016943133977687784
+34,Health professionals,Alabama,job_offer_data,0.012769652128287233
+35,Information and communications technology professionals,Alabama,job_offer_data,0.00625083247537618
+36,"Labourers in mining, construction, manufacturing and transport",Alabama,job_offer_data,0.010664252888982142
+37,"Legal, social and cultural professionals",Alabama,job_offer_data,0.006216876732445076
+38,Market-oriented skilled agricultural workers,Alabama,job_offer_data,0.0018912194206845896
+39,"Metal, machinery and related trades workers",Alabama,job_offer_data,0.01229543990489558
+40,Personal service workers,Alabama,job_offer_data,0.015097837134767792
+41,Production and Specialized Services Managers,Alabama,job_offer_data,0.007605688896951576
+42,Sales workers,Alabama,job_offer_data,0.012046870637853077
+43,Science and engineering professionals,Alabama,job_offer_data,0.007846502477432578
+44,Stationary plant and machine operators,Alabama,job_offer_data,0.0045894480256921276
+45,Teaching professionals,Alabama,job_offer_data,0.009988452364184263
+46,Business and administration professionals,Alaska,employment,0.0025061869149717933
+47,"Chief executives, senior officials and legislators",Alaska,employment,0.0028736294188139093
+48,Cleaners and helpers,Alaska,employment,0.0031013018514566178
+49,Drivers and mobile plant operators,Alaska,employment,0.0019443618993839082
+50,Electrical and Electronics Trades Workers,Alaska,employment,0.0008118253182905395
+51,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Alaska,employment,0.0014018050803270917
+52,General and keyboard clerks,Alaska,employment,0.002451540883394664
+53,Health professionals,Alaska,employment,0.002069502729326897
+54,Information and communications technology professionals,Alaska,employment,0.0012360354039648762
+55,"Labourers in mining, construction, manufacturing and transport",Alaska,employment,0.0026100946829012888
+56,"Legal, social and cultural professionals",Alaska,employment,0.0018290507164246204
+57,"Metal, machinery and related trades workers",Alaska,employment,0.0019003834751428325
+58,Personal service workers,Alaska,employment,0.004085804843603515
+59,Production and Specialized Services Managers,Alaska,employment,0.0013358821891969574
+60,Sales workers,Alaska,employment,0.0027458650793365704
+61,Science and engineering professionals,Alaska,employment,0.0019524006871797712
+62,Teaching professionals,Alaska,employment,0.0023146764366376474
+63,Business and administration professionals,Alaska,job_offer_data,0.0024901193582995743
+64,"Chief executives, senior officials and legislators",Alaska,job_offer_data,0.002871601345532003
+65,Cleaners and helpers,Alaska,job_offer_data,0.0030804151440869156
+66,Drivers and mobile plant operators,Alaska,job_offer_data,0.0019376343690403355
+67,Electrical and Electronics Trades Workers,Alaska,job_offer_data,0.0007814991617827804
+68,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Alaska,job_offer_data,0.0013712494080668442
+69,General and keyboard clerks,Alaska,job_offer_data,0.0024382552315332
+70,Health professionals,Alaska,job_offer_data,0.0020488545529067067
+71,Information and communications technology professionals,Alaska,job_offer_data,0.0012356803236627696
+72,"Labourers in mining, construction, manufacturing and transport",Alaska,job_offer_data,0.002591894076314544
+73,"Legal, social and cultural professionals",Alaska,job_offer_data,0.0018380003675370071
+74,"Metal, machinery and related trades workers",Alaska,job_offer_data,0.001882771211885338
+75,Personal service workers,Alaska,job_offer_data,0.004095361690811823
+76,Production and Specialized Services Managers,Alaska,job_offer_data,0.0013408800851349573
+77,Sales workers,Alaska,job_offer_data,0.0027455368967996933
+78,Science and engineering professionals,Alaska,job_offer_data,0.0019508713619277188
+79,Teaching professionals,Alaska,job_offer_data,0.0023037440462843474
+80,Assemblers,Arizona,employment,0.00244370897748752
+81,Building and Related Trades Workers (excluding Electricians),Arizona,employment,0.011769863904186693
+82,Business and administration professionals,Arizona,employment,0.03322840628366841
+83,"Chief executives, senior officials and legislators",Arizona,employment,0.02061684532087138
+84,Cleaners and helpers,Arizona,employment,0.018735386604301203
+85,Commissioned armed forces officers,Arizona,employment,0.0037697165504570205
+86,Drivers and mobile plant operators,Arizona,employment,0.014240031875257814
+87,Electrical and Electronics Trades Workers,Arizona,employment,0.008363074056400776
+88,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Arizona,employment,0.007210666176013516
+89,General and keyboard clerks,Arizona,employment,0.025593999390680376
+90,Handicraft and printing workers,Arizona,employment,0.002631401516363757
+91,Health professionals,Arizona,employment,0.01993002388189339
+92,Information and communications technology professionals,Arizona,employment,0.01449093528293229
+93,"Labourers in mining, construction, manufacturing and transport",Arizona,employment,0.01773120617941752
+94,"Legal, social and cultural professionals",Arizona,employment,0.015583810913060296
+95,Market-oriented skilled agricultural workers,Arizona,employment,0.003071857405599552
+96,"Metal, machinery and related trades workers",Arizona,employment,0.011572333102216857
+97,Personal service workers,Arizona,employment,0.029403267834609417
+98,Production and Specialized Services Managers,Arizona,employment,0.013210490912945586
+99,Sales workers,Arizona,employment,0.030758065047887577
+100,Science and engineering professionals,Arizona,employment,0.01371037932820503
+101,Stationary plant and machine operators,Arizona,employment,0.007434902895381032
+102,Teaching professionals,Arizona,employment,0.015874597271036368
+103,Assemblers,Arizona,job_offer_data,0.0023572965842405262
+104,Building and Related Trades Workers (excluding Electricians),Arizona,job_offer_data,0.011757479867672423
+105,Business and administration professionals,Arizona,job_offer_data,0.033424163864689854
+106,"Chief executives, senior officials and legislators",Arizona,job_offer_data,0.020416179669242352
+107,Cleaners and helpers,Arizona,job_offer_data,0.01859584174438609
+108,Commissioned armed forces officers,Arizona,job_offer_data,0.0037162600424412453
+109,Drivers and mobile plant operators,Arizona,job_offer_data,0.014177026970921021
+110,Electrical and Electronics Trades Workers,Arizona,job_offer_data,0.008268894522851497
+111,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Arizona,job_offer_data,0.007157403617821373
+112,General and keyboard clerks,Arizona,job_offer_data,0.02556986788753609
+113,Handicraft and printing workers,Arizona,job_offer_data,0.0025336882241579254
+114,Health professionals,Arizona,job_offer_data,0.019661159898990744
+115,Information and communications technology professionals,Arizona,job_offer_data,0.014428199712570458
+116,"Labourers in mining, construction, manufacturing and transport",Arizona,job_offer_data,0.017684510272038365
+117,"Legal, social and cultural professionals",Arizona,job_offer_data,0.015688826942271337
+118,Market-oriented skilled agricultural workers,Arizona,job_offer_data,0.002952947323171265
+119,"Metal, machinery and related trades workers",Arizona,job_offer_data,0.011546254757107756
+120,Personal service workers,Arizona,job_offer_data,0.02954179811001463
+121,Production and Specialized Services Managers,Arizona,job_offer_data,0.01348315673712129
+122,Sales workers,Arizona,job_offer_data,0.030653777881129062
+123,Science and engineering professionals,Arizona,job_offer_data,0.013725055248108709
+124,Stationary plant and machine operators,Arizona,job_offer_data,0.007351139598983393
+125,Teaching professionals,Arizona,job_offer_data,0.01585343029973349
+126,Building and Related Trades Workers (excluding Electricians),Arkansas,employment,0.005640030256404275
+127,Business and administration professionals,Arkansas,employment,0.008588257661689466
+128,"Chief executives, senior officials and legislators",Arkansas,employment,0.006179077316224931
+129,Cleaners and helpers,Arkansas,employment,0.0050824808845335336
+130,Drivers and mobile plant operators,Arkansas,employment,0.005266125615079806
+131,Electrical and Electronics Trades Workers,Arkansas,employment,0.002707217685086233
+132,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Arkansas,employment,0.0031023674365189234
+133,General and keyboard clerks,Arkansas,employment,0.006701950474451172
+134,Handicraft and printing workers,Arkansas,employment,0.0014631535578931837
+135,Health professionals,Arkansas,employment,0.008360285792228677
+136,Information and communications technology professionals,Arkansas,employment,0.004839688635537476
+137,"Labourers in mining, construction, manufacturing and transport",Arkansas,employment,0.00925010941303923
+138,"Legal, social and cultural professionals",Arkansas,employment,0.006036463326624801
+139,Market-oriented skilled agricultural workers,Arkansas,employment,0.0020077825560213514
+140,"Metal, machinery and related trades workers",Arkansas,employment,0.006485001774906722
+141,Personal service workers,Arkansas,employment,0.011102937714607729
+142,Production and Specialized Services Managers,Arkansas,employment,0.004849907681507519
+143,Sales workers,Arkansas,employment,0.009149156485123842
+144,Science and engineering professionals,Arkansas,employment,0.005364511568232358
+145,Stationary plant and machine operators,Arkansas,employment,0.005032474859467281
+146,Teaching professionals,Arkansas,employment,0.005807660361654189
+147,Building and Related Trades Workers (excluding Electricians),Arkansas,job_offer_data,0.005643576531008177
+148,Business and administration professionals,Arkansas,job_offer_data,0.008571353353800784
+149,"Chief executives, senior officials and legislators",Arkansas,job_offer_data,0.006186424392347825
+150,Cleaners and helpers,Arkansas,job_offer_data,0.005063062222310824
+151,Drivers and mobile plant operators,Arkansas,job_offer_data,0.005221347564400992
+152,Electrical and Electronics Trades Workers,Arkansas,job_offer_data,0.002698691437194807
+153,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Arkansas,job_offer_data,0.003069414165359663
+154,General and keyboard clerks,Arkansas,job_offer_data,0.006672604719402328
+155,Handicraft and printing workers,Arkansas,job_offer_data,0.0013860706042483186
+156,Health professionals,Arkansas,job_offer_data,0.008382661405202106
+157,Information and communications technology professionals,Arkansas,job_offer_data,0.004845357866421582
+158,"Labourers in mining, construction, manufacturing and transport",Arkansas,job_offer_data,0.0092497157212243
+159,"Legal, social and cultural professionals",Arkansas,job_offer_data,0.006017353022577289
+160,Market-oriented skilled agricultural workers,Arkansas,job_offer_data,0.0019445365437248039
+161,"Metal, machinery and related trades workers",Arkansas,job_offer_data,0.006449921263983234
+162,Personal service workers,Arkansas,job_offer_data,0.011170450892201093
+163,Production and Specialized Services Managers,Arkansas,job_offer_data,0.004840348112772861
+164,Sales workers,Arkansas,job_offer_data,0.009146070777997168
+165,Science and engineering professionals,Arkansas,job_offer_data,0.005428333231873879
+166,Stationary plant and machine operators,Arkansas,job_offer_data,0.005012670096760055
+167,Teaching professionals,Arkansas,job_offer_data,0.005801216612470034
+168,Assemblers,California,employment,0.005280841046382545
+169,Building and Related Trades Workers (excluding Electricians),California,employment,0.03761140078812555
+170,Business and administration professionals,California,employment,0.058145667133765865
+171,"Chief executives, senior officials and legislators",California,employment,0.04254152553138315
+172,Cleaners and helpers,California,employment,0.037780298553376765
+173,Commissioned armed forces officers,California,employment,0.01322965307385895
+174,Drivers and mobile plant operators,California,employment,0.02732848219222726
+175,Electrical and Electronics Trades Workers,California,employment,0.018197885981083472
+176,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",California,employment,0.015565376336555485
+177,General and keyboard clerks,California,employment,0.047198768670505355
+178,Handicraft and printing workers,California,employment,0.007218993124949843
+179,Health professionals,California,employment,0.03956629031046666
+180,Information and communications technology professionals,California,employment,0.03368569904429479
+181,"Labourers in mining, construction, manufacturing and transport",California,employment,0.05270913851865884
+182,"Legal, social and cultural professionals",California,employment,0.041195709804798114
+183,Market-oriented skilled agricultural workers,California,employment,0.008468241764250758
+184,"Metal, machinery and related trades workers",California,employment,0.03142168251214915
+185,Personal service workers,California,employment,0.07713150307010622
+186,Production and Specialized Services Managers,California,employment,0.02738626429592308
+187,Sales workers,California,employment,0.05419707257972186
+188,Science and engineering professionals,California,employment,0.03783356685396486
+189,Stationary plant and machine operators,California,employment,0.016649398374842406
+190,Teaching professionals,California,employment,0.03368638230451447
+191,Assemblers,California,job_offer_data,0.005229719292745858
+192,Building and Related Trades Workers (excluding Electricians),California,job_offer_data,0.037601884810815535
+193,Business and administration professionals,California,job_offer_data,0.0579772017455321
+194,"Chief executives, senior officials and legislators",California,job_offer_data,0.04219609389154725
+195,Cleaners and helpers,California,job_offer_data,0.037764499347544556
+196,Commissioned armed forces officers,California,job_offer_data,0.013199389854790558
+197,Drivers and mobile plant operators,California,job_offer_data,0.02716612938609416
+198,Electrical and Electronics Trades Workers,California,job_offer_data,0.018145891276332878
+199,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",California,job_offer_data,0.01552915173751514
+200,General and keyboard clerks,California,job_offer_data,0.047213947286712896
+201,Handicraft and printing workers,California,job_offer_data,0.00714698391153519
+202,Health professionals,California,job_offer_data,0.039626662764780746
+203,Information and communications technology professionals,California,job_offer_data,0.03355349203694539
+204,"Labourers in mining, construction, manufacturing and transport",California,job_offer_data,0.05260980975471965
+205,"Legal, social and cultural professionals",California,job_offer_data,0.04085980741869555
+206,Market-oriented skilled agricultural workers,California,job_offer_data,0.008406083636487371
+207,"Metal, machinery and related trades workers",California,job_offer_data,0.031249752025675846
+208,Personal service workers,California,job_offer_data,0.07740744328582301
+209,Production and Specialized Services Managers,California,job_offer_data,0.027465545936117962
+210,Sales workers,California,job_offer_data,0.05405490494794675
+211,Science and engineering professionals,California,job_offer_data,0.03769721008839814
+212,Stationary plant and machine operators,California,job_offer_data,0.016608511435858515
+213,Teaching professionals,California,job_offer_data,0.033649018867832794
+214,Building and Related Trades Workers (excluding Electricians),Colorado,employment,0.01516306896524797
+215,Business and administration professionals,Colorado,employment,0.021553083385586775
+216,"Chief executives, senior officials and legislators",Colorado,employment,0.022141302899181977
+217,Cleaners and helpers,Colorado,employment,0.015598557166579123
+218,Commissioned armed forces officers,Colorado,employment,0.003878361772737548
+219,Drivers and mobile plant operators,Colorado,employment,0.012150410646191274
+220,Electrical and Electronics Trades Workers,Colorado,employment,0.005498267483725569
+221,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Colorado,employment,0.007122312218546901
+222,General and keyboard clerks,Colorado,employment,0.017518204705795442
+223,Handicraft and printing workers,Colorado,employment,0.002792514676974059
+224,Health professionals,Colorado,employment,0.016801288219042292
+225,Information and communications technology professionals,Colorado,employment,0.010296809498411448
+226,"Labourers in mining, construction, manufacturing and transport",Colorado,employment,0.01505803462385138
+227,"Legal, social and cultural professionals",Colorado,employment,0.013127011695258272
+228,Market-oriented skilled agricultural workers,Colorado,employment,0.002955651003083985
+229,"Metal, machinery and related trades workers",Colorado,employment,0.008434153649933409
+230,Personal service workers,Colorado,employment,0.024499333115501457
+231,Production and Specialized Services Managers,Colorado,employment,0.019447215997164456
+232,Sales workers,Colorado,employment,0.01894469712208503
+233,Science and engineering professionals,Colorado,employment,0.013582415982192834
+234,Stationary plant and machine operators,Colorado,employment,0.004171931406862274
+235,Teaching professionals,Colorado,employment,0.01607310711948479
+236,Building and Related Trades Workers (excluding Electricians),Colorado,job_offer_data,0.014946542523645174
+237,Business and administration professionals,Colorado,job_offer_data,0.021472815238223357
+238,"Chief executives, senior officials and legislators",Colorado,job_offer_data,0.022065819711317488
+239,Cleaners and helpers,Colorado,job_offer_data,0.01544292106668445
+240,Commissioned armed forces officers,Colorado,job_offer_data,0.0037750304194061786
+241,Drivers and mobile plant operators,Colorado,job_offer_data,0.01203574754016787
+242,Electrical and Electronics Trades Workers,Colorado,job_offer_data,0.0054218521313088575
+243,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Colorado,job_offer_data,0.0069842206406945505
+244,General and keyboard clerks,Colorado,job_offer_data,0.01748375616648778
+245,Handicraft and printing workers,Colorado,job_offer_data,0.00269953927842504
+246,Health professionals,Colorado,job_offer_data,0.016563149075451943
+247,Information and communications technology professionals,Colorado,job_offer_data,0.010192036118426588
+248,"Labourers in mining, construction, manufacturing and transport",Colorado,job_offer_data,0.014991478202078495
+249,"Legal, social and cultural professionals",Colorado,job_offer_data,0.013012029259824892
+250,Market-oriented skilled agricultural workers,Colorado,job_offer_data,0.002838054987158762
+251,"Metal, machinery and related trades workers",Colorado,job_offer_data,0.008326406208318449
+252,Personal service workers,Colorado,job_offer_data,0.024572454867307306
+253,Production and Specialized Services Managers,Colorado,job_offer_data,0.019277992073925766
+254,Sales workers,Colorado,job_offer_data,0.01891015929361213
+255,Science and engineering professionals,Colorado,job_offer_data,0.013446249754769208
+256,Stationary plant and machine operators,Colorado,job_offer_data,0.004094143820024326
+257,Teaching professionals,Colorado,job_offer_data,0.015915352402712638
+258,Building and Related Trades Workers (excluding Electricians),Connecticut,employment,0.010888164108467588
+259,Business and administration professionals,Connecticut,employment,0.015296805079944138
+260,"Chief executives, senior officials and legislators",Connecticut,employment,0.012918494101070177
+261,Cleaners and helpers,Connecticut,employment,0.011470938216380814
+262,Commissioned armed forces officers,Connecticut,employment,0.002868416692882475
+263,Drivers and mobile plant operators,Connecticut,employment,0.00910175682261775
+264,Electrical and Electronics Trades Workers,Connecticut,employment,0.005306250375020312
+265,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Connecticut,employment,0.004845014135896682
+266,General and keyboard clerks,Connecticut,employment,0.014393919067006102
+267,Handicraft and printing workers,Connecticut,employment,0.0036985543961482264
+268,Health professionals,Connecticut,employment,0.01640035467401199
+269,Information and communications technology professionals,Connecticut,employment,0.009121403730802585
+270,"Labourers in mining, construction, manufacturing and transport",Connecticut,employment,0.014025675748256692
+271,"Legal, social and cultural professionals",Connecticut,employment,0.012887671376021363
+272,Market-oriented skilled agricultural workers,Connecticut,employment,0.004354316201981703
+273,"Metal, machinery and related trades workers",Connecticut,employment,0.008755955332050619
+274,Personal service workers,Connecticut,employment,0.021872103600023462
+275,Production and Specialized Services Managers,Connecticut,employment,0.007603534455959838
+276,Sales workers,Connecticut,employment,0.011865633427720668
+277,Science and engineering professionals,Connecticut,employment,0.011834856787541296
+278,Stationary plant and machine operators,Connecticut,employment,0.005195319488936782
+279,Teaching professionals,Connecticut,employment,0.008327887125390695
+280,Building and Related Trades Workers (excluding Electricians),Connecticut,job_offer_data,0.010819059897884311
+281,Business and administration professionals,Connecticut,job_offer_data,0.014991364501753228
+282,"Chief executives, senior officials and legislators",Connecticut,job_offer_data,0.012552548210900613
+283,Cleaners and helpers,Connecticut,job_offer_data,0.011356374401771951
+284,Commissioned armed forces officers,Connecticut,job_offer_data,0.0028010168833156744
+285,Drivers and mobile plant operators,Connecticut,job_offer_data,0.00901767321771967
+286,Electrical and Electronics Trades Workers,Connecticut,job_offer_data,0.005184500989038659
+287,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Connecticut,job_offer_data,0.0047862577272505145
+288,General and keyboard clerks,Connecticut,job_offer_data,0.014358708194248705
+289,Handicraft and printing workers,Connecticut,job_offer_data,0.0036080629046163415
+290,Health professionals,Connecticut,job_offer_data,0.016350832477285172
+291,Information and communications technology professionals,Connecticut,job_offer_data,0.00914915450356682
+292,"Labourers in mining, construction, manufacturing and transport",Connecticut,job_offer_data,0.013945740010253818
+293,"Legal, social and cultural professionals",Connecticut,job_offer_data,0.012793503994969334
+294,Market-oriented skilled agricultural workers,Connecticut,job_offer_data,0.004212093419163977
+295,"Metal, machinery and related trades workers",Connecticut,job_offer_data,0.008687491742737724
+296,Personal service workers,Connecticut,job_offer_data,0.021889686965983195
+297,Production and Specialized Services Managers,Connecticut,job_offer_data,0.007532810457172281
+298,Sales workers,Connecticut,job_offer_data,0.011794318640591403
+299,Science and engineering professionals,Connecticut,job_offer_data,0.011924384216682307
+300,Stationary plant and machine operators,Connecticut,job_offer_data,0.005118717715203529
+301,Teaching professionals,Connecticut,job_offer_data,0.008316233501559342
+302,Building and Related Trades Workers (excluding Electricians),Delaware,employment,0.0025328326572564767
+303,Business and administration professionals,Delaware,employment,0.0032559544314536494
+304,"Chief executives, senior officials and legislators",Delaware,employment,0.002229520250006879
+305,Cleaners and helpers,Delaware,employment,0.0025469486702384913
+306,Commissioned armed forces officers,Delaware,employment,0.0008071307332341189
+307,Drivers and mobile plant operators,Delaware,employment,0.0020749201598825595
+308,Electrical and Electronics Trades Workers,Delaware,employment,0.001429240644308386
+309,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Delaware,employment,0.0018700921333151673
+310,General and keyboard clerks,Delaware,employment,0.004382938863809098
+311,Handicraft and printing workers,Delaware,employment,0.0006663097556626036
+312,Health professionals,Delaware,employment,0.002673203612221529
+313,Information and communications technology professionals,Delaware,employment,0.0021897465151920125
+314,"Labourers in mining, construction, manufacturing and transport",Delaware,employment,0.0034332364982374215
+315,"Legal, social and cultural professionals",Delaware,employment,0.002876887741910034
+316,Market-oriented skilled agricultural workers,Delaware,employment,0.0006993382149687367
+317,"Metal, machinery and related trades workers",Delaware,employment,0.001562471115486898
+318,Personal service workers,Delaware,employment,0.005566244691039176
+319,Production and Specialized Services Managers,Delaware,employment,0.0022550893392675954
+320,Sales workers,Delaware,employment,0.004023092976832427
+321,Science and engineering professionals,Delaware,employment,0.0020735984317914124
+322,Stationary plant and machine operators,Delaware,employment,0.0017648646534361545
+323,Teaching professionals,Delaware,employment,0.002360538245652184
+324,Building and Related Trades Workers (excluding Electricians),Delaware,job_offer_data,0.0025280076230995673
+325,Business and administration professionals,Delaware,job_offer_data,0.003190542532482504
+326,"Chief executives, senior officials and legislators",Delaware,job_offer_data,0.002095527025201978
+327,Cleaners and helpers,Delaware,job_offer_data,0.00253824139131213
+328,Commissioned armed forces officers,Delaware,job_offer_data,0.0007652532994818606
+329,Drivers and mobile plant operators,Delaware,job_offer_data,0.002057900479904891
+330,Electrical and Electronics Trades Workers,Delaware,job_offer_data,0.0014108157143095396
+331,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Delaware,job_offer_data,0.001825979690009437
+332,General and keyboard clerks,Delaware,job_offer_data,0.004453228741570398
+333,Handicraft and printing workers,Delaware,job_offer_data,0.0006485385641290728
+334,Health professionals,Delaware,job_offer_data,0.002663104429897373
+335,Information and communications technology professionals,Delaware,job_offer_data,0.002270488599519359
+336,"Labourers in mining, construction, manufacturing and transport",Delaware,job_offer_data,0.0034307201988032074
+337,"Legal, social and cultural professionals",Delaware,job_offer_data,0.0029013736819025315
+338,Market-oriented skilled agricultural workers,Delaware,job_offer_data,0.0006418169969594833
+339,"Metal, machinery and related trades workers",Delaware,job_offer_data,0.0015271998747345703
+340,Personal service workers,Delaware,job_offer_data,0.005496712784370602
+341,Production and Specialized Services Managers,Delaware,job_offer_data,0.0022057521069872837
+342,Sales workers,Delaware,job_offer_data,0.003992287584656818
+343,Science and engineering professionals,Delaware,job_offer_data,0.002082986518824158
+344,Stationary plant and machine operators,Delaware,job_offer_data,0.0017469264315765286
+345,Teaching professionals,Delaware,job_offer_data,0.002349793902402589
+346,Building and Related Trades Workers (excluding Electricians),District of Columbia,employment,0.0009531714489476729
+347,Business and administration professionals,District of Columbia,employment,0.003491679905454469
+348,"Chief executives, senior officials and legislators",District of Columbia,employment,0.003337501209029471
+349,Cleaners and helpers,District of Columbia,employment,0.0013962288387313142
+350,Commissioned armed forces officers,District of Columbia,employment,0.0010264312582542324
+351,Drivers and mobile plant operators,District of Columbia,employment,0.0012877533854103768
+352,Electrical and Electronics Trades Workers,District of Columbia,employment,0.0006005718670955121
+353,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",District of Columbia,employment,0.0006932395902241192
+354,General and keyboard clerks,District of Columbia,employment,0.0024958532082651804
+355,Health professionals,District of Columbia,employment,0.001745258239349978
+356,Information and communications technology professionals,District of Columbia,employment,0.002121792247481759
+357,"Labourers in mining, construction, manufacturing and transport",District of Columbia,employment,0.001790612296377896
+358,"Legal, social and cultural professionals",District of Columbia,employment,0.003414560000832392
+359,"Metal, machinery and related trades workers",District of Columbia,employment,0.0006048867477544741
+360,Personal service workers,District of Columbia,employment,0.002413260773725061
+361,Production and Specialized Services Managers,District of Columbia,employment,0.0015765444993036492
+362,Sales workers,District of Columbia,employment,0.00142155918123194
+363,Science and engineering professionals,District of Columbia,employment,0.0015228658731298592
+364,Stationary plant and machine operators,District of Columbia,employment,0.0003956940049980649
+365,Teaching professionals,District of Columbia,employment,0.0019378067678158099
+366,Building and Related Trades Workers (excluding Electricians),District of Columbia,job_offer_data,0.0009424955768100297
+367,Business and administration professionals,District of Columbia,job_offer_data,0.003484387163135966
+368,"Chief executives, senior officials and legislators",District of Columbia,job_offer_data,0.0033340771746275437
+369,Cleaners and helpers,District of Columbia,job_offer_data,0.0013851862274937585
+370,Commissioned armed forces officers,District of Columbia,job_offer_data,0.0010129233405835516
+371,Drivers and mobile plant operators,District of Columbia,job_offer_data,0.0012767396507841057
+372,Electrical and Electronics Trades Workers,District of Columbia,job_offer_data,0.0005959257395652466
+373,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",District of Columbia,job_offer_data,0.0006864601489913811
+374,General and keyboard clerks,District of Columbia,job_offer_data,0.0024637080165378594
+375,Health professionals,District of Columbia,job_offer_data,0.001748068055389034
+376,Information and communications technology professionals,District of Columbia,job_offer_data,0.0021161772551696384
+377,"Labourers in mining, construction, manufacturing and transport",District of Columbia,job_offer_data,0.0017682830098350456
+378,"Legal, social and cultural professionals",District of Columbia,job_offer_data,0.0034030614337560877
+379,"Metal, machinery and related trades workers",District of Columbia,job_offer_data,0.0005981845903064135
+380,Personal service workers,District of Columbia,job_offer_data,0.0024089589151100347
+381,Production and Specialized Services Managers,District of Columbia,job_offer_data,0.0015578666031190545
+382,Sales workers,District of Columbia,job_offer_data,0.0014095891231606288
+383,Science and engineering professionals,District of Columbia,job_offer_data,0.001506689434345064
+384,Stationary plant and machine operators,District of Columbia,job_offer_data,0.0003905388514526884
+385,Teaching professionals,District of Columbia,job_offer_data,0.0019262691145895854
+386,Assemblers,Florida,employment,0.0036569176301335868
+387,Building and Related Trades Workers (excluding Electricians),Florida,employment,0.025171855932785273
+388,Business and administration professionals,Florida,employment,0.04228931886971521
+389,"Chief executives, senior officials and legislators",Florida,employment,0.028775737707399413
+390,Cleaners and helpers,Florida,employment,0.03189447433289149
+391,Commissioned armed forces officers,Florida,employment,0.0031337693728709956
+392,Drivers and mobile plant operators,Florida,employment,0.026622488252663012
+393,Electrical and Electronics Trades Workers,Florida,employment,0.01883987955433338
+394,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Florida,employment,0.015309854455033436
+395,General and keyboard clerks,Florida,employment,0.0385112167912755
+396,Handicraft and printing workers,Florida,employment,0.0057982504000448805
+397,Health professionals,Florida,employment,0.035525441676301124
+398,Information and communications technology professionals,Florida,employment,0.019500326367125207
+399,"Labourers in mining, construction, manufacturing and transport",Florida,employment,0.03174892427271235
+400,"Legal, social and cultural professionals",Florida,employment,0.028385100204709034
+401,Market-oriented skilled agricultural workers,Florida,employment,0.007938505177381105
+402,"Metal, machinery and related trades workers",Florida,employment,0.016713368842476733
+403,Personal service workers,Florida,employment,0.045435680151427016
+404,Production and Specialized Services Managers,Florida,employment,0.02445166814019218
+405,Sales workers,Florida,employment,0.031661797578479874
+406,Science and engineering professionals,Florida,employment,0.02552556846855547
+407,Stationary plant and machine operators,Florida,employment,0.0096183030737228
+408,Teaching professionals,Florida,employment,0.021524206217525023
+409,Assemblers,Florida,job_offer_data,0.0035625973926150995
+410,Building and Related Trades Workers (excluding Electricians),Florida,job_offer_data,0.02532107371191706
+411,Business and administration professionals,Florida,job_offer_data,0.041818257954902925
+412,"Chief executives, senior officials and legislators",Florida,job_offer_data,0.0288002600551515
+413,Cleaners and helpers,Florida,job_offer_data,0.03170563441933735
+414,Commissioned armed forces officers,Florida,job_offer_data,0.003142505637960662
+415,Drivers and mobile plant operators,Florida,job_offer_data,0.026441085031969475
+416,Electrical and Electronics Trades Workers,Florida,job_offer_data,0.018739135325398
+417,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Florida,job_offer_data,0.015194526682072117
+418,General and keyboard clerks,Florida,job_offer_data,0.038133760617121856
+419,Handicraft and printing workers,Florida,job_offer_data,0.005759809492176776
+420,Health professionals,Florida,job_offer_data,0.03535112477669683
+421,Information and communications technology professionals,Florida,job_offer_data,0.019596478917825372
+422,"Labourers in mining, construction, manufacturing and transport",Florida,job_offer_data,0.031695652744730164
+423,"Legal, social and cultural professionals",Florida,job_offer_data,0.028372989991853594
+424,Market-oriented skilled agricultural workers,Florida,job_offer_data,0.007833330317701654
+425,"Metal, machinery and related trades workers",Florida,job_offer_data,0.01661308928589808
+426,Personal service workers,Florida,job_offer_data,0.045622204786644124
+427,Production and Specialized Services Managers,Florida,job_offer_data,0.02430145331328217
+428,Sales workers,Florida,job_offer_data,0.03150943353192949
+429,Science and engineering professionals,Florida,job_offer_data,0.025574368616736235
+430,Stationary plant and machine operators,Florida,job_offer_data,0.009580459385173585
+431,Teaching professionals,Florida,job_offer_data,0.021373199966304258
+432,Building and Related Trades Workers (excluding Electricians),Georgia,employment,0.0204589056773799
+433,Business and administration professionals,Georgia,employment,0.02489444767206685
+434,"Chief executives, senior officials and legislators",Georgia,employment,0.025203623199792004
+435,Cleaners and helpers,Georgia,employment,0.026398438656115394
+436,Commissioned armed forces officers,Georgia,employment,0.006174399488403574
+437,Drivers and mobile plant operators,Georgia,employment,0.02562740780440639
+438,Electrical and Electronics Trades Workers,Georgia,employment,0.011030766431407674
+439,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Georgia,employment,0.015098938406257992
+440,General and keyboard clerks,Georgia,employment,0.02696415967834474
+441,Handicraft and printing workers,Georgia,employment,0.006041300664210404
+442,Health professionals,Georgia,employment,0.021666426524637912
+443,Information and communications technology professionals,Georgia,employment,0.016183913704226286
+444,"Labourers in mining, construction, manufacturing and transport",Georgia,employment,0.022729951263980832
+445,"Legal, social and cultural professionals",Georgia,employment,0.022444383668516393
+446,Market-oriented skilled agricultural workers,Georgia,employment,0.005131636280456473
+447,"Metal, machinery and related trades workers",Georgia,employment,0.015996189712988582
+448,Personal service workers,Georgia,employment,0.03174687715254008
+449,Production and Specialized Services Managers,Georgia,employment,0.02192896248567734
+450,Sales workers,Georgia,employment,0.024748232653042223
+451,Science and engineering professionals,Georgia,employment,0.018197574347720884
+452,Stationary plant and machine operators,Georgia,employment,0.01204633252952663
+453,Teaching professionals,Georgia,employment,0.0211700712526743
+454,Building and Related Trades Workers (excluding Electricians),Georgia,job_offer_data,0.020393838463472487
+455,Business and administration professionals,Georgia,job_offer_data,0.02477192347196252
+456,"Chief executives, senior officials and legislators",Georgia,job_offer_data,0.02491701894103515
+457,Cleaners and helpers,Georgia,job_offer_data,0.026241605234803532
+458,Commissioned armed forces officers,Georgia,job_offer_data,0.006099555473337343
+459,Drivers and mobile plant operators,Georgia,job_offer_data,0.025601797622329052
+460,Electrical and Electronics Trades Workers,Georgia,job_offer_data,0.011016220625570708
+461,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Georgia,job_offer_data,0.01501560287429449
+462,General and keyboard clerks,Georgia,job_offer_data,0.026881581473483924
+463,Handicraft and printing workers,Georgia,job_offer_data,0.005934386066003992
+464,Health professionals,Georgia,job_offer_data,0.021686230478465098
+465,Information and communications technology professionals,Georgia,job_offer_data,0.016094924754040868
+466,"Labourers in mining, construction, manufacturing and transport",Georgia,job_offer_data,0.022682552996109256
+467,"Legal, social and cultural professionals",Georgia,job_offer_data,0.022382486689769623
+468,Market-oriented skilled agricultural workers,Georgia,job_offer_data,0.00500352883054199
+469,"Metal, machinery and related trades workers",Georgia,job_offer_data,0.015943835658345635
+470,Personal service workers,Georgia,job_offer_data,0.031810989522851725
+471,Production and Specialized Services Managers,Georgia,job_offer_data,0.022290444031988113
+472,Sales workers,Georgia,job_offer_data,0.024655441988265633
+473,Science and engineering professionals,Georgia,job_offer_data,0.018061795362633016
+474,Stationary plant and machine operators,Georgia,job_offer_data,0.011976994999882935
+475,Teaching professionals,Georgia,job_offer_data,0.021121519021226786
+476,Building and Related Trades Workers (excluding Electricians),Hawaii,employment,0.0036783330727921414
+477,Business and administration professionals,Hawaii,employment,0.004424778721075488
+478,"Chief executives, senior officials and legislators",Hawaii,employment,0.0030774653700726116
+479,Cleaners and helpers,Hawaii,employment,0.004459519240197426
+480,Commissioned armed forces officers,Hawaii,employment,0.0007789308287675042
+481,Drivers and mobile plant operators,Hawaii,employment,0.003679635787842892
+482,Electrical and Electronics Trades Workers,Hawaii,employment,0.0019391835056839584
+483,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Hawaii,employment,0.0017947172368494337
+484,General and keyboard clerks,Hawaii,employment,0.005236020117284669
+485,Handicraft and printing workers,Hawaii,employment,0.001279109975842573
+486,Health professionals,Hawaii,employment,0.002731274823399742
+487,Information and communications technology professionals,Hawaii,employment,0.002227881356554128
+488,"Labourers in mining, construction, manufacturing and transport",Hawaii,employment,0.004061034273429884
+489,"Legal, social and cultural professionals",Hawaii,employment,0.0031364439826602
+490,"Metal, machinery and related trades workers",Hawaii,employment,0.0018181886250836202
+491,Personal service workers,Hawaii,employment,0.00785263036299416
+492,Production and Specialized Services Managers,Hawaii,employment,0.002828090928475069
+493,Sales workers,Hawaii,employment,0.005090285968933504
+494,Science and engineering professionals,Hawaii,employment,0.002740764142855558
+495,Stationary plant and machine operators,Hawaii,employment,0.001437560848735778
+496,Teaching professionals,Hawaii,employment,0.003843117532476815
+497,Building and Related Trades Workers (excluding Electricians),Hawaii,job_offer_data,0.003673958241468768
+498,Business and administration professionals,Hawaii,job_offer_data,0.004399736290956959
+499,"Chief executives, senior officials and legislators",Hawaii,job_offer_data,0.003055590672821266
+500,Cleaners and helpers,Hawaii,job_offer_data,0.004454115727044408
+501,Commissioned armed forces officers,Hawaii,job_offer_data,0.0007600443776942664
+502,Drivers and mobile plant operators,Hawaii,job_offer_data,0.0036810100743975283
+503,Electrical and Electronics Trades Workers,Hawaii,job_offer_data,0.001925280975414808
+504,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Hawaii,job_offer_data,0.0017875766712688668
+505,General and keyboard clerks,Hawaii,job_offer_data,0.005227424111103925
+506,Handicraft and printing workers,Hawaii,job_offer_data,0.0012568234880428167
+507,Health professionals,Hawaii,job_offer_data,0.002726033883176758
+508,Information and communications technology professionals,Hawaii,job_offer_data,0.002229676034921587
+509,"Labourers in mining, construction, manufacturing and transport",Hawaii,job_offer_data,0.004056943424929738
+510,"Legal, social and cultural professionals",Hawaii,job_offer_data,0.0031403652061853596
+511,"Metal, machinery and related trades workers",Hawaii,job_offer_data,0.001804138423520068
+512,Personal service workers,Hawaii,job_offer_data,0.007879739478650115
+513,Production and Specialized Services Managers,Hawaii,job_offer_data,0.0028234046322923867
+514,Sales workers,Hawaii,job_offer_data,0.005099703290043807
+515,Science and engineering professionals,Hawaii,job_offer_data,0.002765585573745623
+516,Stationary plant and machine operators,Hawaii,job_offer_data,0.0014238376681365926
+517,Teaching professionals,Hawaii,job_offer_data,0.0038407546116086405
+518,Assemblers,Idaho,employment,0.0006649533449171629
+519,Building and Related Trades Workers (excluding Electricians),Idaho,employment,0.004091554021173141
+520,Business and administration professionals,Idaho,employment,0.005509576530525342
+521,"Chief executives, senior officials and legislators",Idaho,employment,0.005081216289840165
+522,Cleaners and helpers,Idaho,employment,0.004107163780557288
+523,Commissioned armed forces officers,Idaho,employment,0.0006924140455785058
+524,Drivers and mobile plant operators,Idaho,employment,0.00250302205712812
+525,Electrical and Electronics Trades Workers,Idaho,employment,0.0019151495107231848
+526,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Idaho,employment,0.0020204869904072447
+527,General and keyboard clerks,Idaho,employment,0.007326750907636961
+528,Handicraft and printing workers,Idaho,employment,0.0007800005263160428
+529,Health professionals,Idaho,employment,0.0055264152372210456
+530,Information and communications technology professionals,Idaho,employment,0.003476533621994705
+531,"Labourers in mining, construction, manufacturing and transport",Idaho,employment,0.004506923989442728
+532,"Legal, social and cultural professionals",Idaho,employment,0.0035131665688476334
+533,Market-oriented skilled agricultural workers,Idaho,employment,0.0009222662402335265
+534,"Metal, machinery and related trades workers",Idaho,employment,0.0033159594524495004
+535,Personal service workers,Idaho,employment,0.006964857696365207
+536,Production and Specialized Services Managers,Idaho,employment,0.0034657324018106555
+537,Sales workers,Idaho,employment,0.0054808366282811365
+538,Science and engineering professionals,Idaho,employment,0.003333336287733323
+539,Stationary plant and machine operators,Idaho,employment,0.0014352514290376923
+540,Teaching professionals,Idaho,employment,0.0036169764217373972
+541,Assemblers,Idaho,job_offer_data,0.0006500383307840225
+542,Building and Related Trades Workers (excluding Electricians),Idaho,job_offer_data,0.004062684743413506
+543,Business and administration professionals,Idaho,job_offer_data,0.005467803081962658
+544,"Chief executives, senior officials and legislators",Idaho,job_offer_data,0.005030681953435065
+545,Cleaners and helpers,Idaho,job_offer_data,0.004084991710621283
+546,Commissioned armed forces officers,Idaho,job_offer_data,0.0006848249014495826
+547,Drivers and mobile plant operators,Idaho,job_offer_data,0.002482039830444749
+548,Electrical and Electronics Trades Workers,Idaho,job_offer_data,0.001896651960102497
+549,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Idaho,job_offer_data,0.0020017125756197894
+550,General and keyboard clerks,Idaho,job_offer_data,0.007325747705462394
+551,Handicraft and printing workers,Idaho,job_offer_data,0.0007613100117065787
+552,Health professionals,Idaho,job_offer_data,0.00553347671860981
+553,Information and communications technology professionals,Idaho,job_offer_data,0.0034711038648644384
+554,"Labourers in mining, construction, manufacturing and transport",Idaho,job_offer_data,0.004503057488564445
+555,"Legal, social and cultural professionals",Idaho,job_offer_data,0.0035110228245174716
+556,Market-oriented skilled agricultural workers,Idaho,job_offer_data,0.0009007044530122008
+557,"Metal, machinery and related trades workers",Idaho,job_offer_data,0.0033040849615837585
+558,Personal service workers,Idaho,job_offer_data,0.006987573218956701
+559,Production and Specialized Services Managers,Idaho,job_offer_data,0.0034412652374033238
+560,Sales workers,Idaho,job_offer_data,0.00547496181176448
+561,Science and engineering professionals,Idaho,job_offer_data,0.0033207924340866
+562,Stationary plant and machine operators,Idaho,job_offer_data,0.0014175322709566117
+563,Teaching professionals,Idaho,job_offer_data,0.003624437488645343
+564,Assemblers,Illinois,employment,0.002781681643428448
+565,Building and Related Trades Workers (excluding Electricians),Illinois,employment,0.02080116654574293
+566,Business and administration professionals,Illinois,employment,0.03033018894561473
+567,"Chief executives, senior officials and legislators",Illinois,employment,0.023719449086579646
+568,Cleaners and helpers,Illinois,employment,0.022936120846997435
+569,Commissioned armed forces officers,Illinois,employment,0.005102482540187373
+570,Drivers and mobile plant operators,Illinois,employment,0.019545752292333636
+571,Electrical and Electronics Trades Workers,Illinois,employment,0.008433739862664736
+572,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Illinois,employment,0.013172634504158709
+573,General and keyboard clerks,Illinois,employment,0.021322880001496562
+574,Handicraft and printing workers,Illinois,employment,0.0050023920560154115
+575,Health professionals,Illinois,employment,0.029603399162392106
+576,Information and communications technology professionals,Illinois,employment,0.01670591601733556
+577,"Labourers in mining, construction, manufacturing and transport",Illinois,employment,0.027234907830066504
+578,"Legal, social and cultural professionals",Illinois,employment,0.025267037808762594
+579,Market-oriented skilled agricultural workers,Illinois,employment,0.005022051708443178
+580,"Metal, machinery and related trades workers",Illinois,employment,0.018976886902664945
+581,Personal service workers,Illinois,employment,0.03407853969092849
+582,Production and Specialized Services Managers,Illinois,employment,0.024534052494882646
+583,Sales workers,Illinois,employment,0.02545017932441486
+584,Science and engineering professionals,Illinois,employment,0.013541409865325546
+585,Stationary plant and machine operators,Illinois,employment,0.0121591845530516
+586,Teaching professionals,Illinois,employment,0.01998289340445177
+587,Assemblers,Illinois,job_offer_data,0.0027268577484063656
+588,Building and Related Trades Workers (excluding Electricians),Illinois,job_offer_data,0.020704288748259796
+589,Business and administration professionals,Illinois,job_offer_data,0.030225206921196776
+590,"Chief executives, senior officials and legislators",Illinois,job_offer_data,0.023564031419463293
+591,Cleaners and helpers,Illinois,job_offer_data,0.02279493515777304
+592,Commissioned armed forces officers,Illinois,job_offer_data,0.0050484901007977305
+593,Drivers and mobile plant operators,Illinois,job_offer_data,0.01947401736129558
+594,Electrical and Electronics Trades Workers,Illinois,job_offer_data,0.008319683335318144
+595,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Illinois,job_offer_data,0.013084800217983382
+596,General and keyboard clerks,Illinois,job_offer_data,0.021301994417174765
+597,Handicraft and printing workers,Illinois,job_offer_data,0.004945384295896974
+598,Health professionals,Illinois,job_offer_data,0.02944571191164778
+599,Information and communications technology professionals,Illinois,job_offer_data,0.016687465013128563
+600,"Labourers in mining, construction, manufacturing and transport",Illinois,job_offer_data,0.02737347068424649
+601,"Legal, social and cultural professionals",Illinois,job_offer_data,0.02510356727496342
+602,Market-oriented skilled agricultural workers,Illinois,job_offer_data,0.004956150767795943
+603,"Metal, machinery and related trades workers",Illinois,job_offer_data,0.01894857042670195
+604,Personal service workers,Illinois,job_offer_data,0.03428985751712174
+605,Production and Specialized Services Managers,Illinois,job_offer_data,0.024594437845098117
+606,Sales workers,Illinois,job_offer_data,0.025314306429531433
+607,Science and engineering professionals,Illinois,job_offer_data,0.013799616368380351
+608,Stationary plant and machine operators,Illinois,job_offer_data,0.012129575706836397
+609,Teaching professionals,Illinois,job_offer_data,0.019892102454002265
+610,Assemblers,Indiana,employment,0.0024892820699772395
+611,Building and Related Trades Workers (excluding Electricians),Indiana,employment,0.014224733138627968
+612,Business and administration professionals,Indiana,employment,0.021521338405214113
+613,"Chief executives, senior officials and legislators",Indiana,employment,0.01616211786127157
+614,Cleaners and helpers,Indiana,employment,0.015661872158225343
+615,Commissioned armed forces officers,Indiana,employment,0.003191125650518069
+616,Drivers and mobile plant operators,Indiana,employment,0.011599327445115229
+617,Electrical and Electronics Trades Workers,Indiana,employment,0.005971329495481773
+618,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Indiana,employment,0.006572223165821468
+619,General and keyboard clerks,Indiana,employment,0.025740976770089446
+620,Handicraft and printing workers,Indiana,employment,0.004021182238035785
+621,Health professionals,Indiana,employment,0.015348181714916337
+622,Information and communications technology professionals,Indiana,employment,0.014604872997153545
+623,"Labourers in mining, construction, manufacturing and transport",Indiana,employment,0.018188413799287793
+624,"Legal, social and cultural professionals",Indiana,employment,0.014077222566770886
+625,Market-oriented skilled agricultural workers,Indiana,employment,0.003017626365092383
+626,"Metal, machinery and related trades workers",Indiana,employment,0.013379505125995556
+627,Personal service workers,Indiana,employment,0.0266165837960974
+628,Production and Specialized Services Managers,Indiana,employment,0.014731339969881579
+629,Sales workers,Indiana,employment,0.023300515476816077
+630,Science and engineering professionals,Indiana,employment,0.01060250922377879
+631,Stationary plant and machine operators,Indiana,employment,0.008749976952507458
+632,Teaching professionals,Indiana,employment,0.013880091312608651
+633,Assemblers,Indiana,job_offer_data,0.002283529471124264
+634,Building and Related Trades Workers (excluding Electricians),Indiana,job_offer_data,0.014162421441367902
+635,Business and administration professionals,Indiana,job_offer_data,0.021336027870726654
+636,"Chief executives, senior officials and legislators",Indiana,job_offer_data,0.01582830773349718
+637,Cleaners and helpers,Indiana,job_offer_data,0.015619354391947582
+638,Commissioned armed forces officers,Indiana,job_offer_data,0.0030528179196249315
+639,Drivers and mobile plant operators,Indiana,job_offer_data,0.011559911563429377
+640,Electrical and Electronics Trades Workers,Indiana,job_offer_data,0.00583308733058247
+641,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Indiana,job_offer_data,0.006481809159623779
+642,General and keyboard clerks,Indiana,job_offer_data,0.025499776337233833
+643,Handicraft and printing workers,Indiana,job_offer_data,0.0038070823339710295
+644,Health professionals,Indiana,job_offer_data,0.015357138261052916
+645,Information and communications technology professionals,Indiana,job_offer_data,0.01448127591267938
+646,"Labourers in mining, construction, manufacturing and transport",Indiana,job_offer_data,0.018315980508561234
+647,"Legal, social and cultural professionals",Indiana,job_offer_data,0.014253533261563383
+648,Market-oriented skilled agricultural workers,Indiana,job_offer_data,0.0028310498761503133
+649,"Metal, machinery and related trades workers",Indiana,job_offer_data,0.013327134877726755
+650,Personal service workers,Indiana,job_offer_data,0.026744042181329232
+651,Production and Specialized Services Managers,Indiana,job_offer_data,0.01459154791061113
+652,Sales workers,Indiana,job_offer_data,0.023277556850359683
+653,Science and engineering professionals,Indiana,job_offer_data,0.010451634113591825
+654,Stationary plant and machine operators,Indiana,job_offer_data,0.008651993898154667
+655,Teaching professionals,Indiana,job_offer_data,0.01379768801669651
+656,Assemblers,Iowa,employment,0.0011794454757923696
+657,Building and Related Trades Workers (excluding Electricians),Iowa,employment,0.005382303377947306
+658,Business and administration professionals,Iowa,employment,0.010495556757547203
+659,"Chief executives, senior officials and legislators",Iowa,employment,0.009597357043948014
+660,Cleaners and helpers,Iowa,employment,0.008067773625135995
+661,Commissioned armed forces officers,Iowa,employment,0.0018028670467395912
+662,Drivers and mobile plant operators,Iowa,employment,0.008361176552288008
+663,Electrical and Electronics Trades Workers,Iowa,employment,0.0031764224473537855
+664,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Iowa,employment,0.005797286114640276
+665,General and keyboard clerks,Iowa,employment,0.012283561569893417
+666,Handicraft and printing workers,Iowa,employment,0.002289507587832938
+667,Health professionals,Iowa,employment,0.008902497366183327
+668,Information and communications technology professionals,Iowa,employment,0.005489220407956537
+669,"Labourers in mining, construction, manufacturing and transport",Iowa,employment,0.013575667689735895
+670,"Legal, social and cultural professionals",Iowa,employment,0.007331073160218783
+671,Market-oriented skilled agricultural workers,Iowa,employment,0.0017190014657906978
+672,"Metal, machinery and related trades workers",Iowa,employment,0.008151537764806397
+673,Personal service workers,Iowa,employment,0.016005236755372382
+674,Production and Specialized Services Managers,Iowa,employment,0.008901075792691832
+675,Sales workers,Iowa,employment,0.010025631707093485
+676,Science and engineering professionals,Iowa,employment,0.007426764279167434
+677,Stationary plant and machine operators,Iowa,employment,0.0034079773279754116
+678,Teaching professionals,Iowa,employment,0.010225462868514973
+679,Assemblers,Iowa,job_offer_data,0.0010475950938632788
+680,Building and Related Trades Workers (excluding Electricians),Iowa,job_offer_data,0.005354462570243721
+681,Business and administration professionals,Iowa,job_offer_data,0.01039452233260137
+682,"Chief executives, senior officials and legislators",Iowa,job_offer_data,0.009610391387115414
+683,Cleaners and helpers,Iowa,job_offer_data,0.008072344525324062
+684,Commissioned armed forces officers,Iowa,job_offer_data,0.0016917332969078895
+685,Drivers and mobile plant operators,Iowa,job_offer_data,0.008350800716988486
+686,Electrical and Electronics Trades Workers,Iowa,job_offer_data,0.003137659425329783
+687,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Iowa,job_offer_data,0.005747898668690101
+688,General and keyboard clerks,Iowa,job_offer_data,0.012289826379667378
+689,Handicraft and printing workers,Iowa,job_offer_data,0.0021996551942688874
+690,Health professionals,Iowa,job_offer_data,0.008871902540245032
+691,Information and communications technology professionals,Iowa,job_offer_data,0.005529680506326587
+692,"Labourers in mining, construction, manufacturing and transport",Iowa,job_offer_data,0.013576243475384418
+693,"Legal, social and cultural professionals",Iowa,job_offer_data,0.007354146292218501
+694,Market-oriented skilled agricultural workers,Iowa,job_offer_data,0.0016283136351532938
+695,"Metal, machinery and related trades workers",Iowa,job_offer_data,0.008204343653849257
+696,Personal service workers,Iowa,job_offer_data,0.016025651676029713
+697,Production and Specialized Services Managers,Iowa,job_offer_data,0.008904239972390078
+698,Sales workers,Iowa,job_offer_data,0.009976646660863647
+699,Science and engineering professionals,Iowa,job_offer_data,0.007429248370955368
+700,Stationary plant and machine operators,Iowa,job_offer_data,0.0033556534515504486
+701,Teaching professionals,Iowa,job_offer_data,0.010207241529138834
+702,Building and Related Trades Workers (excluding Electricians),Kansas,employment,0.006694101297641045
+703,Business and administration professionals,Kansas,employment,0.00956968406661482
+704,"Chief executives, senior officials and legislators",Kansas,employment,0.006335949907087575
+705,Cleaners and helpers,Kansas,employment,0.005803968730823237
+706,Commissioned armed forces officers,Kansas,employment,0.001621939295357562
+707,Drivers and mobile plant operators,Kansas,employment,0.005555583884677671
+708,Electrical and Electronics Trades Workers,Kansas,employment,0.004353347547711868
+709,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Kansas,employment,0.004823507260416773
+710,General and keyboard clerks,Kansas,employment,0.008338932151601097
+711,Handicraft and printing workers,Kansas,employment,0.0016725395709926393
+712,Health professionals,Kansas,employment,0.008446369990680295
+713,Information and communications technology professionals,Kansas,employment,0.0065032143362834215
+714,"Labourers in mining, construction, manufacturing and transport",Kansas,employment,0.006456642633791341
+715,"Legal, social and cultural professionals",Kansas,employment,0.008070903945153732
+716,Market-oriented skilled agricultural workers,Kansas,employment,0.0024425322657024
+717,"Metal, machinery and related trades workers",Kansas,employment,0.007112792412882602
+718,Personal service workers,Kansas,employment,0.012143499757506749
+719,Production and Specialized Services Managers,Kansas,employment,0.005555116294696
+720,Sales workers,Kansas,employment,0.008222947475176049
+721,Science and engineering professionals,Kansas,employment,0.005145420914175115
+722,Stationary plant and machine operators,Kansas,employment,0.004470127419174367
+723,Teaching professionals,Kansas,employment,0.009296574793451097
+724,Building and Related Trades Workers (excluding Electricians),Kansas,job_offer_data,0.0066233127062017465
+725,Business and administration professionals,Kansas,job_offer_data,0.009529486524677023
+726,"Chief executives, senior officials and legislators",Kansas,job_offer_data,0.0062836225331817635
+727,Cleaners and helpers,Kansas,job_offer_data,0.005770655118461103
+728,Commissioned armed forces officers,Kansas,job_offer_data,0.001551989644695141
+729,Drivers and mobile plant operators,Kansas,job_offer_data,0.005581786281982034
+730,Electrical and Electronics Trades Workers,Kansas,job_offer_data,0.0043424334551829735
+731,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Kansas,job_offer_data,0.004772704380370446
+732,General and keyboard clerks,Kansas,job_offer_data,0.008387972113391165
+733,Handicraft and printing workers,Kansas,job_offer_data,0.0015750674037751846
+734,Health professionals,Kansas,job_offer_data,0.00840697720774839
+735,Information and communications technology professionals,Kansas,job_offer_data,0.006546875753016971
+736,"Labourers in mining, construction, manufacturing and transport",Kansas,job_offer_data,0.00642545248185162
+737,"Legal, social and cultural professionals",Kansas,job_offer_data,0.007974069027335412
+738,Market-oriented skilled agricultural workers,Kansas,job_offer_data,0.0023452067971326683
+739,"Metal, machinery and related trades workers",Kansas,job_offer_data,0.0070973551346590995
+740,Personal service workers,Kansas,job_offer_data,0.012162318039413247
+741,Production and Specialized Services Managers,Kansas,job_offer_data,0.005444880675474069
+742,Sales workers,Kansas,job_offer_data,0.008205262846522692
+743,Science and engineering professionals,Kansas,job_offer_data,0.005120704018162812
+744,Stationary plant and machine operators,Kansas,job_offer_data,0.004387445042484574
+745,Teaching professionals,Kansas,job_offer_data,0.009258524670019329
+746,Building and Related Trades Workers (excluding Electricians),Kentucky,employment,0.013477423455206871
+747,Business and administration professionals,Kentucky,employment,0.013992837708950188
+748,"Chief executives, senior officials and legislators",Kentucky,employment,0.015426400403002506
+749,Cleaners and helpers,Kentucky,employment,0.010562760011785735
+750,Drivers and mobile plant operators,Kentucky,employment,0.010265653482349608
+751,Electrical and Electronics Trades Workers,Kentucky,employment,0.004202390631991966
+752,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Kentucky,employment,0.0063537276905482375
+753,General and keyboard clerks,Kentucky,employment,0.014489328382857753
+754,Handicraft and printing workers,Kentucky,employment,0.003592543256715522
+755,Health professionals,Kentucky,employment,0.009845674579833812
+756,Information and communications technology professionals,Kentucky,employment,0.007193608843224714
+757,"Labourers in mining, construction, manufacturing and transport",Kentucky,employment,0.016593099705419518
+758,"Legal, social and cultural professionals",Kentucky,employment,0.011130473980568552
+759,Market-oriented skilled agricultural workers,Kentucky,employment,0.0027025663339973263
+760,"Metal, machinery and related trades workers",Kentucky,employment,0.009481312059651187
+761,Personal service workers,Kentucky,employment,0.016543444610795478
+762,Production and Specialized Services Managers,Kentucky,employment,0.010686677443483334
+763,Sales workers,Kentucky,employment,0.013807205080128723
+764,Science and engineering professionals,Kentucky,employment,0.009288606351318989
+765,Stationary plant and machine operators,Kentucky,employment,0.0054640082284107255
+766,Teaching professionals,Kentucky,employment,0.009742595116967859
+767,Building and Related Trades Workers (excluding Electricians),Kentucky,job_offer_data,0.013472577599515747
+768,Business and administration professionals,Kentucky,job_offer_data,0.013908604635949583
+769,"Chief executives, senior officials and legislators",Kentucky,job_offer_data,0.015342430940353261
+770,Cleaners and helpers,Kentucky,job_offer_data,0.01052786568473255
+771,Drivers and mobile plant operators,Kentucky,job_offer_data,0.010277593092200605
+772,Electrical and Electronics Trades Workers,Kentucky,job_offer_data,0.004134251999714726
+773,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Kentucky,job_offer_data,0.006274313286359181
+774,General and keyboard clerks,Kentucky,job_offer_data,0.014462644126159161
+775,Handicraft and printing workers,Kentucky,job_offer_data,0.003478414988355916
+776,Health professionals,Kentucky,job_offer_data,0.00961870604444405
+777,Information and communications technology professionals,Kentucky,job_offer_data,0.007270221446331722
+778,"Labourers in mining, construction, manufacturing and transport",Kentucky,job_offer_data,0.0166350535652749
+779,"Legal, social and cultural professionals",Kentucky,job_offer_data,0.011207534610017661
+780,Market-oriented skilled agricultural workers,Kentucky,job_offer_data,0.0025657621491299025
+781,"Metal, machinery and related trades workers",Kentucky,job_offer_data,0.009510347747966805
+782,Personal service workers,Kentucky,job_offer_data,0.016535113711994696
+783,Production and Specialized Services Managers,Kentucky,job_offer_data,0.010650168138087359
+784,Sales workers,Kentucky,job_offer_data,0.013816410420218347
+785,Science and engineering professionals,Kentucky,job_offer_data,0.009433116000689103
+786,Stationary plant and machine operators,Kentucky,job_offer_data,0.00539072842691306
+787,Teaching professionals,Kentucky,job_offer_data,0.009825213431317715
+788,Building and Related Trades Workers (excluding Electricians),Louisiana,employment,0.007671302816453937
+789,Business and administration professionals,Louisiana,employment,0.008389668201850648
+790,"Chief executives, senior officials and legislators",Louisiana,employment,0.009521760648016084
+791,Cleaners and helpers,Louisiana,employment,0.00899010437451069
+792,Commissioned armed forces officers,Louisiana,employment,0.0013224669540743974
+793,Drivers and mobile plant operators,Louisiana,employment,0.010418572915339703
+794,Electrical and Electronics Trades Workers,Louisiana,employment,0.004739805107747994
+795,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Louisiana,employment,0.004230838105352938
+796,General and keyboard clerks,Louisiana,employment,0.013640210478738889
+797,Handicraft and printing workers,Louisiana,employment,0.002156765432575162
+798,Health professionals,Louisiana,employment,0.010173541916214108
+799,Information and communications technology professionals,Louisiana,employment,0.005931328307549186
+800,"Labourers in mining, construction, manufacturing and transport",Louisiana,employment,0.013328877098769653
+801,"Legal, social and cultural professionals",Louisiana,employment,0.00958958070748855
+802,Market-oriented skilled agricultural workers,Louisiana,employment,0.002870369514466895
+803,"Metal, machinery and related trades workers",Louisiana,employment,0.007925768144678711
+804,Personal service workers,Louisiana,employment,0.012482291879656502
+805,Production and Specialized Services Managers,Louisiana,employment,0.00847887486354708
+806,Sales workers,Louisiana,employment,0.01254439231173342
+807,Science and engineering professionals,Louisiana,employment,0.006812494679945313
+808,Stationary plant and machine operators,Louisiana,employment,0.003994150664710715
+809,Teaching professionals,Louisiana,employment,0.007654849966490055
+810,Building and Related Trades Workers (excluding Electricians),Louisiana,job_offer_data,0.007666483278657986
+811,Business and administration professionals,Louisiana,job_offer_data,0.008402399759450487
+812,"Chief executives, senior officials and legislators",Louisiana,job_offer_data,0.00951530059519571
+813,Cleaners and helpers,Louisiana,job_offer_data,0.008933145097935552
+814,Commissioned armed forces officers,Louisiana,job_offer_data,0.0012468553592617615
+815,Drivers and mobile plant operators,Louisiana,job_offer_data,0.010395475974527203
+816,Electrical and Electronics Trades Workers,Louisiana,job_offer_data,0.004733895142547827
+817,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Louisiana,job_offer_data,0.004181617059029478
+818,General and keyboard clerks,Louisiana,job_offer_data,0.013614106369609866
+819,Handicraft and printing workers,Louisiana,job_offer_data,0.002107879842802955
+820,Health professionals,Louisiana,job_offer_data,0.01007988479861139
+821,Information and communications technology professionals,Louisiana,job_offer_data,0.00595367062535163
+822,"Labourers in mining, construction, manufacturing and transport",Louisiana,job_offer_data,0.013326409969814594
+823,"Legal, social and cultural professionals",Louisiana,job_offer_data,0.0095822557942555
+824,Market-oriented skilled agricultural workers,Louisiana,job_offer_data,0.0028089456300585854
+825,"Metal, machinery and related trades workers",Louisiana,job_offer_data,0.00789441167233503
+826,Personal service workers,Louisiana,job_offer_data,0.012509386549312855
+827,Production and Specialized Services Managers,Louisiana,job_offer_data,0.008468322214629644
+828,Sales workers,Louisiana,job_offer_data,0.012522334025010285
+829,Science and engineering professionals,Louisiana,job_offer_data,0.006811752622879464
+830,Stationary plant and machine operators,Louisiana,job_offer_data,0.003930213898060378
+831,Teaching professionals,Louisiana,job_offer_data,0.00769419497570426
+832,Building and Related Trades Workers (excluding Electricians),Maine,employment,0.004117234707197912
+833,Business and administration professionals,Maine,employment,0.007194089654033431
+834,"Chief executives, senior officials and legislators",Maine,employment,0.005425703187617504
+835,Cleaners and helpers,Maine,employment,0.005653473302346778
+836,Commissioned armed forces officers,Maine,employment,0.0013114973147140797
+837,Drivers and mobile plant operators,Maine,employment,0.0034972812896471154
+838,Electrical and Electronics Trades Workers,Maine,employment,0.0021897153574094706
+839,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Maine,employment,0.0024140441172078478
+840,General and keyboard clerks,Maine,employment,0.00584815283321332
+841,Health professionals,Maine,employment,0.005342502612162014
+842,Information and communications technology professionals,Maine,employment,0.002610757642850271
+843,"Labourers in mining, construction, manufacturing and transport",Maine,employment,0.005012473635152503
+844,"Legal, social and cultural professionals",Maine,employment,0.004781290787490662
+845,Market-oriented skilled agricultural workers,Maine,employment,0.0013500820366505425
+846,"Metal, machinery and related trades workers",Maine,employment,0.003365197576406713
+847,Personal service workers,Maine,employment,0.00469829928128538
+848,Production and Specialized Services Managers,Maine,employment,0.003736352163812183
+849,Sales workers,Maine,employment,0.005593357351939581
+850,Science and engineering professionals,Maine,employment,0.0036593878796541478
+851,Stationary plant and machine operators,Maine,employment,0.002098610512589102
+852,Teaching professionals,Maine,employment,0.004136578144202586
+853,Building and Related Trades Workers (excluding Electricians),Maine,job_offer_data,0.00410241964649894
+854,Business and administration professionals,Maine,job_offer_data,0.0071343109819057655
+855,"Chief executives, senior officials and legislators",Maine,job_offer_data,0.005255768676369637
+856,Cleaners and helpers,Maine,job_offer_data,0.005622486946318417
+857,Commissioned armed forces officers,Maine,job_offer_data,0.0012470804413788476
+858,Drivers and mobile plant operators,Maine,job_offer_data,0.003466166920702186
+859,Electrical and Electronics Trades Workers,Maine,job_offer_data,0.0021576758592272032
+860,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Maine,job_offer_data,0.002382512633114133
+861,General and keyboard clerks,Maine,job_offer_data,0.005799060696976366
+862,Health professionals,Maine,job_offer_data,0.0052565850023239625
+863,Information and communications technology professionals,Maine,job_offer_data,0.0028062159703031975
+864,"Labourers in mining, construction, manufacturing and transport",Maine,job_offer_data,0.0049611382722624065
+865,"Legal, social and cultural professionals",Maine,job_offer_data,0.004767697350379919
+866,Market-oriented skilled agricultural workers,Maine,job_offer_data,0.001277522335534093
+867,"Metal, machinery and related trades workers",Maine,job_offer_data,0.0033504814763256857
+868,Personal service workers,Maine,job_offer_data,0.004778748934854981
+869,Production and Specialized Services Managers,Maine,job_offer_data,0.0037447512631095287
+870,Sales workers,Maine,job_offer_data,0.005575826476184182
+871,Science and engineering professionals,Maine,job_offer_data,0.003610976305551385
+872,Stationary plant and machine operators,Maine,job_offer_data,0.0020610919173101095
+873,Teaching professionals,Maine,job_offer_data,0.00412036262936036
+874,Building and Related Trades Workers (excluding Electricians),Maryland,employment,0.009888598335197268
+875,Business and administration professionals,Maryland,employment,0.030893899874058196
+876,"Chief executives, senior officials and legislators",Maryland,employment,0.019727179145666605
+877,Cleaners and helpers,Maryland,employment,0.01664917394912227
+878,Commissioned armed forces officers,Maryland,employment,0.007039751503269728
+879,Drivers and mobile plant operators,Maryland,employment,0.013020231171997408
+880,Electrical and Electronics Trades Workers,Maryland,employment,0.00812952182598465
+881,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Maryland,employment,0.006239250680125424
+882,General and keyboard clerks,Maryland,employment,0.02269017326908555
+883,Handicraft and printing workers,Maryland,employment,0.0045593171014606465
+884,Health professionals,Maryland,employment,0.021089423158085836
+885,Information and communications technology professionals,Maryland,employment,0.01866881599174117
+886,"Labourers in mining, construction, manufacturing and transport",Maryland,employment,0.017746583669159568
+887,"Legal, social and cultural professionals",Maryland,employment,0.019036937451054683
+888,Market-oriented skilled agricultural workers,Maryland,employment,0.004260436919446918
+889,"Metal, machinery and related trades workers",Maryland,employment,0.008275382048612985
+890,Personal service workers,Maryland,employment,0.020669137430117644
+891,Production and Specialized Services Managers,Maryland,employment,0.014426603616434159
+892,Sales workers,Maryland,employment,0.015907672227113704
+893,Science and engineering professionals,Maryland,employment,0.01986753533020865
+894,Stationary plant and machine operators,Maryland,employment,0.004736641600303218
+895,Teaching professionals,Maryland,employment,0.01898911235111543
+896,Building and Related Trades Workers (excluding Electricians),Maryland,job_offer_data,0.009839661304968788
+897,Business and administration professionals,Maryland,job_offer_data,0.03053507961674061
+898,"Chief executives, senior officials and legislators",Maryland,job_offer_data,0.019432835638620794
+899,Cleaners and helpers,Maryland,job_offer_data,0.016467982434864113
+900,Commissioned armed forces officers,Maryland,job_offer_data,0.0069125360677343055
+901,Drivers and mobile plant operators,Maryland,job_offer_data,0.012981066662565715
+902,Electrical and Electronics Trades Workers,Maryland,job_offer_data,0.008044302296607304
+903,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Maryland,job_offer_data,0.006118239630835426
+904,General and keyboard clerks,Maryland,job_offer_data,0.02259034060815546
+905,Handicraft and printing workers,Maryland,job_offer_data,0.004473976313919673
+906,Health professionals,Maryland,job_offer_data,0.021084522160828702
+907,Information and communications technology professionals,Maryland,job_offer_data,0.018502666683636846
+908,"Labourers in mining, construction, manufacturing and transport",Maryland,job_offer_data,0.01779551871326874
+909,"Legal, social and cultural professionals",Maryland,job_offer_data,0.01880015509509371
+910,Market-oriented skilled agricultural workers,Maryland,job_offer_data,0.00415160432421766
+911,"Metal, machinery and related trades workers",Maryland,job_offer_data,0.008188955717928397
+912,Personal service workers,Maryland,job_offer_data,0.021153550944903884
+913,Production and Specialized Services Managers,Maryland,job_offer_data,0.014121815731500714
+914,Sales workers,Maryland,job_offer_data,0.015567765839154025
+915,Science and engineering professionals,Maryland,job_offer_data,0.019812726698264217
+916,Stationary plant and machine operators,Maryland,job_offer_data,0.004675564035862681
+917,Teaching professionals,Maryland,job_offer_data,0.018761181147589998
+918,Assemblers,Massachusetts,employment,0.003187742197547817
+919,Building and Related Trades Workers (excluding Electricians),Massachusetts,employment,0.016414911310513803
+920,Business and administration professionals,Massachusetts,employment,0.023161009219554687
+921,"Chief executives, senior officials and legislators",Massachusetts,employment,0.017610161532478488
+922,Cleaners and helpers,Massachusetts,employment,0.01243063512156807
+923,Commissioned armed forces officers,Massachusetts,employment,0.004325983162208799
+924,Drivers and mobile plant operators,Massachusetts,employment,0.008933771136241784
+925,Electrical and Electronics Trades Workers,Massachusetts,employment,0.005106337369014839
+926,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Massachusetts,employment,0.006380859539639323
+927,General and keyboard clerks,Massachusetts,employment,0.017391587395185794
+928,Handicraft and printing workers,Massachusetts,employment,0.002655636208619168
+929,Health professionals,Massachusetts,employment,0.017275774088865686
+930,Information and communications technology professionals,Massachusetts,employment,0.012609848331673067
+931,"Labourers in mining, construction, manufacturing and transport",Massachusetts,employment,0.0174453615453958
+932,"Legal, social and cultural professionals",Massachusetts,employment,0.012156077566973894
+933,Market-oriented skilled agricultural workers,Massachusetts,employment,0.003396203712792662
+934,"Metal, machinery and related trades workers",Massachusetts,employment,0.005443887621258622
+935,Personal service workers,Massachusetts,employment,0.018542327070281042
+936,Production and Specialized Services Managers,Massachusetts,employment,0.014643361464575795
+937,Sales workers,Massachusetts,employment,0.01811298298504502
+938,Science and engineering professionals,Massachusetts,employment,0.011178498723747774
+939,Stationary plant and machine operators,Massachusetts,employment,0.005781600479507715
+940,Teaching professionals,Massachusetts,employment,0.013084099057036412
+941,Assemblers,Massachusetts,job_offer_data,0.0031627189739682413
+942,Building and Related Trades Workers (excluding Electricians),Massachusetts,job_offer_data,0.016351433559387386
+943,Business and administration professionals,Massachusetts,job_offer_data,0.023164207031131378
+944,"Chief executives, senior officials and legislators",Massachusetts,job_offer_data,0.017841846647439
+945,Cleaners and helpers,Massachusetts,job_offer_data,0.012373658327810845
+946,Commissioned armed forces officers,Massachusetts,job_offer_data,0.004257300200639099
+947,Drivers and mobile plant operators,Massachusetts,job_offer_data,0.008878859578783408
+948,Electrical and Electronics Trades Workers,Massachusetts,job_offer_data,0.005070319542391047
+949,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Massachusetts,job_offer_data,0.006315501660329872
+950,General and keyboard clerks,Massachusetts,job_offer_data,0.01737981053869422
+951,Handicraft and printing workers,Massachusetts,job_offer_data,0.002621692534288309
+952,Health professionals,Massachusetts,job_offer_data,0.017234049063462972
+953,Information and communications technology professionals,Massachusetts,job_offer_data,0.012514844657540275
+954,"Labourers in mining, construction, manufacturing and transport",Massachusetts,job_offer_data,0.017410457094841816
+955,"Legal, social and cultural professionals",Massachusetts,job_offer_data,0.012135416556397391
+956,Market-oriented skilled agricultural workers,Massachusetts,job_offer_data,0.0033492283539205262
+957,"Metal, machinery and related trades workers",Massachusetts,job_offer_data,0.005388574516642912
+958,Personal service workers,Massachusetts,job_offer_data,0.018664886719671748
+959,Production and Specialized Services Managers,Massachusetts,job_offer_data,0.014785964969900315
+960,Sales workers,Massachusetts,job_offer_data,0.01809579217881096
+961,Science and engineering professionals,Massachusetts,job_offer_data,0.011097629165538272
+962,Stationary plant and machine operators,Massachusetts,job_offer_data,0.005749067591858073
+963,Teaching professionals,Massachusetts,job_offer_data,0.01306696221518398
+964,Assemblers,Michigan,employment,0.005937779493757197
+965,Building and Related Trades Workers (excluding Electricians),Michigan,employment,0.013378812139609236
+966,Business and administration professionals,Michigan,employment,0.025771871011101514
+967,"Chief executives, senior officials and legislators",Michigan,employment,0.018835528158712294
+968,Cleaners and helpers,Michigan,employment,0.018030687352204092
+969,Commissioned armed forces officers,Michigan,employment,0.003722219715916773
+970,Drivers and mobile plant operators,Michigan,employment,0.010525934027633826
+971,Electrical and Electronics Trades Workers,Michigan,employment,0.007300485368690518
+972,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Michigan,employment,0.007614455139020526
+973,General and keyboard clerks,Michigan,employment,0.030240261765046125
+974,Handicraft and printing workers,Michigan,employment,0.004335540882989468
+975,Health professionals,Michigan,employment,0.025061070653746614
+976,Information and communications technology professionals,Michigan,employment,0.01297877075957812
+977,"Labourers in mining, construction, manufacturing and transport",Michigan,employment,0.015996039225251616
+978,"Legal, social and cultural professionals",Michigan,employment,0.018821636578300084
+979,Market-oriented skilled agricultural workers,Michigan,employment,0.006438536967895776
+980,"Metal, machinery and related trades workers",Michigan,employment,0.016434461052800834
+981,Personal service workers,Michigan,employment,0.030836111873768477
+982,Production and Specialized Services Managers,Michigan,employment,0.015886657953899784
+983,Sales workers,Michigan,employment,0.02031806024971886
+984,Science and engineering professionals,Michigan,employment,0.016967410313651777
+985,Stationary plant and machine operators,Michigan,employment,0.011277079642491677
+986,Teaching professionals,Michigan,employment,0.01696627101689806
+987,Assemblers,Michigan,job_offer_data,0.005863574063416685
+988,Building and Related Trades Workers (excluding Electricians),Michigan,job_offer_data,0.013337989686120795
+989,Business and administration professionals,Michigan,job_offer_data,0.02550926944121346
+990,"Chief executives, senior officials and legislators",Michigan,job_offer_data,0.018661447040612504
+991,Cleaners and helpers,Michigan,job_offer_data,0.017969725098348592
+992,Commissioned armed forces officers,Michigan,job_offer_data,0.0035946522714758403
+993,Drivers and mobile plant operators,Michigan,job_offer_data,0.010477361241466676
+994,Electrical and Electronics Trades Workers,Michigan,job_offer_data,0.0073109251341505425
+995,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Michigan,job_offer_data,0.007569320117161684
+996,General and keyboard clerks,Michigan,job_offer_data,0.030240462062326764
+997,Handicraft and printing workers,Michigan,job_offer_data,0.0041775707801728875
+998,Health professionals,Michigan,job_offer_data,0.025059751006223294
+999,Information and communications technology professionals,Michigan,job_offer_data,0.013003751269727033
+1000,"Labourers in mining, construction, manufacturing and transport",Michigan,job_offer_data,0.015965801801735374
+1001,"Legal, social and cultural professionals",Michigan,job_offer_data,0.018784409739182866
+1002,Market-oriented skilled agricultural workers,Michigan,job_offer_data,0.006318390311517324
+1003,"Metal, machinery and related trades workers",Michigan,job_offer_data,0.01634460351516664
+1004,Personal service workers,Michigan,job_offer_data,0.030956644820768705
+1005,Production and Specialized Services Managers,Michigan,job_offer_data,0.01592244120114392
+1006,Sales workers,Michigan,job_offer_data,0.020268036879225165
+1007,Science and engineering professionals,Michigan,job_offer_data,0.01708277830451504
+1008,Stationary plant and machine operators,Michigan,job_offer_data,0.011137495138884764
+1009,Teaching professionals,Michigan,job_offer_data,0.01685621059425463
+1010,Building and Related Trades Workers (excluding Electricians),Minnesota,employment,0.01403443410617985
+1011,Business and administration professionals,Minnesota,employment,0.024937900856439092
+1012,"Chief executives, senior officials and legislators",Minnesota,employment,0.018804813242626943
+1013,Cleaners and helpers,Minnesota,employment,0.01289863550488042
+1014,Commissioned armed forces officers,Minnesota,employment,0.0036121444863690872
+1015,Drivers and mobile plant operators,Minnesota,employment,0.010926525469080193
+1016,Electrical and Electronics Trades Workers,Minnesota,employment,0.007276077372688664
+1017,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Minnesota,employment,0.010195387008396482
+1018,General and keyboard clerks,Minnesota,employment,0.014482972985041817
+1019,Handicraft and printing workers,Minnesota,employment,0.0037561223835760023
+1020,Health professionals,Minnesota,employment,0.014150851733059615
+1021,Information and communications technology professionals,Minnesota,employment,0.009501535369998983
+1022,"Labourers in mining, construction, manufacturing and transport",Minnesota,employment,0.018374589643011533
+1023,"Legal, social and cultural professionals",Minnesota,employment,0.016926687709565454
+1024,Market-oriented skilled agricultural workers,Minnesota,employment,0.003417593079527421
+1025,"Metal, machinery and related trades workers",Minnesota,employment,0.012632025937237982
+1026,Personal service workers,Minnesota,employment,0.020739004453997
+1027,Production and Specialized Services Managers,Minnesota,employment,0.01120058115538939
+1028,Sales workers,Minnesota,employment,0.01117001177378227
+1029,Science and engineering professionals,Minnesota,employment,0.011644143800968305
+1030,Stationary plant and machine operators,Minnesota,employment,0.00480520705296776
+1031,Teaching professionals,Minnesota,employment,0.014148792484956547
+1032,Building and Related Trades Workers (excluding Electricians),Minnesota,job_offer_data,0.014016376999879034
+1033,Business and administration professionals,Minnesota,job_offer_data,0.024917953136820204
+1034,"Chief executives, senior officials and legislators",Minnesota,job_offer_data,0.01881172830059278
+1035,Cleaners and helpers,Minnesota,job_offer_data,0.012891215646456832
+1036,Commissioned armed forces officers,Minnesota,job_offer_data,0.0036022724658924875
+1037,Drivers and mobile plant operators,Minnesota,job_offer_data,0.010915702326051595
+1038,Electrical and Electronics Trades Workers,Minnesota,job_offer_data,0.007265326243171231
+1039,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Minnesota,job_offer_data,0.01017869633899058
+1040,General and keyboard clerks,Minnesota,job_offer_data,0.014491211239281676
+1041,Handicraft and printing workers,Minnesota,job_offer_data,0.0037432609371553546
+1042,Health professionals,Minnesota,job_offer_data,0.014110830834190765
+1043,Information and communications technology professionals,Minnesota,job_offer_data,0.009513527662260287
+1044,"Labourers in mining, construction, manufacturing and transport",Minnesota,job_offer_data,0.018368956208057292
+1045,"Legal, social and cultural professionals",Minnesota,job_offer_data,0.01691048222178799
+1046,Market-oriented skilled agricultural workers,Minnesota,job_offer_data,0.003398977641963983
+1047,"Metal, machinery and related trades workers",Minnesota,job_offer_data,0.01261204951987653
+1048,Personal service workers,Minnesota,job_offer_data,0.020745587467544638
+1049,Production and Specialized Services Managers,Minnesota,job_offer_data,0.011199189541480902
+1050,Sales workers,Minnesota,job_offer_data,0.011160712931410398
+1051,Science and engineering professionals,Minnesota,job_offer_data,0.011653697806762212
+1052,Stationary plant and machine operators,Minnesota,job_offer_data,0.004794220605391528
+1053,Teaching professionals,Minnesota,job_offer_data,0.014141963249119417
+1054,Assemblers,Mississippi,employment,0.0013627925268245912
+1055,Building and Related Trades Workers (excluding Electricians),Mississippi,employment,0.004647238784568894
+1056,Business and administration professionals,Mississippi,employment,0.004953444184657839
+1057,"Chief executives, senior officials and legislators",Mississippi,employment,0.005611288828459004
+1058,Cleaners and helpers,Mississippi,employment,0.005297114779481959
+1059,Drivers and mobile plant operators,Mississippi,employment,0.005253408882514359
+1060,Electrical and Electronics Trades Workers,Mississippi,employment,0.001719603028633084
+1061,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Mississippi,employment,0.0039959324832798335
+1062,General and keyboard clerks,Mississippi,employment,0.006414468846167346
+1063,Handicraft and printing workers,Mississippi,employment,0.0014524310541148679
+1064,Health professionals,Mississippi,employment,0.005565644618298175
+1065,Information and communications technology professionals,Mississippi,employment,0.002669854185622489
+1066,"Labourers in mining, construction, manufacturing and transport",Mississippi,employment,0.007351432769828034
+1067,"Legal, social and cultural professionals",Mississippi,employment,0.005092503490237482
+1068,Market-oriented skilled agricultural workers,Mississippi,employment,0.002165225272311478
+1069,"Metal, machinery and related trades workers",Mississippi,employment,0.0064369656765692045
+1070,Personal service workers,Mississippi,employment,0.011009427017468999
+1071,Production and Specialized Services Managers,Mississippi,employment,0.004616195551642959
+1072,Sales workers,Mississippi,employment,0.007183413958320611
+1073,Science and engineering professionals,Mississippi,employment,0.004320305169326989
+1074,Stationary plant and machine operators,Mississippi,employment,0.0027517216752194146
+1075,Teaching professionals,Mississippi,employment,0.005225244356990347
+1076,Assemblers,Mississippi,job_offer_data,0.0013308462555229337
+1077,Building and Related Trades Workers (excluding Electricians),Mississippi,job_offer_data,0.00463649347271056
+1078,Business and administration professionals,Mississippi,job_offer_data,0.00493035541899417
+1079,"Chief executives, senior officials and legislators",Mississippi,job_offer_data,0.005608545538501685
+1080,Cleaners and helpers,Mississippi,job_offer_data,0.00528988676841539
+1081,Drivers and mobile plant operators,Mississippi,job_offer_data,0.005244623790652036
+1082,Electrical and Electronics Trades Workers,Mississippi,job_offer_data,0.0017074731540326034
+1083,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Mississippi,job_offer_data,0.003985995336821567
+1084,General and keyboard clerks,Mississippi,job_offer_data,0.006407804377891506
+1085,Handicraft and printing workers,Mississippi,job_offer_data,0.0014200976092899418
+1086,Health professionals,Mississippi,job_offer_data,0.005560948722687254
+1087,Information and communications technology professionals,Mississippi,job_offer_data,0.002645157423757363
+1088,"Labourers in mining, construction, manufacturing and transport",Mississippi,job_offer_data,0.007355730278248836
+1089,"Legal, social and cultural professionals",Mississippi,job_offer_data,0.005111488993039142
+1090,Market-oriented skilled agricultural workers,Mississippi,job_offer_data,0.002145569237664345
+1091,"Metal, machinery and related trades workers",Mississippi,job_offer_data,0.006436457608889594
+1092,Personal service workers,Mississippi,job_offer_data,0.011013020852321996
+1093,Production and Specialized Services Managers,Mississippi,job_offer_data,0.004590876832821517
+1094,Sales workers,Mississippi,job_offer_data,0.007189527084535023
+1095,Science and engineering professionals,Mississippi,job_offer_data,0.0043087054852197545
+1096,Stationary plant and machine operators,Mississippi,job_offer_data,0.0027339200084577605
+1097,Teaching professionals,Mississippi,job_offer_data,0.005217421414081371
+1098,Assemblers,Missouri,employment,0.0023926068683088955
+1099,Building and Related Trades Workers (excluding Electricians),Missouri,employment,0.01068539287587945
+1100,Business and administration professionals,Missouri,employment,0.01630277044193899
+1101,"Chief executives, senior officials and legislators",Missouri,employment,0.014662444411826257
+1102,Cleaners and helpers,Missouri,employment,0.0150080340887722
+1103,Commissioned armed forces officers,Missouri,employment,0.0029158662601017436
+1104,Drivers and mobile plant operators,Missouri,employment,0.009924718154800272
+1105,Electrical and Electronics Trades Workers,Missouri,employment,0.006680687077168888
+1106,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Missouri,employment,0.004336850025482321
+1107,General and keyboard clerks,Missouri,employment,0.021496479146238593
+1108,Handicraft and printing workers,Missouri,employment,0.0032221127776682684
+1109,Health professionals,Missouri,employment,0.015863506498537003
+1110,Information and communications technology professionals,Missouri,employment,0.011177475014071065
+1111,"Labourers in mining, construction, manufacturing and transport",Missouri,employment,0.0195823163458461
+1112,"Legal, social and cultural professionals",Missouri,employment,0.018943818502674136
+1113,Market-oriented skilled agricultural workers,Missouri,employment,0.004038787889449304
+1114,"Metal, machinery and related trades workers",Missouri,employment,0.01194983387831191
+1115,Personal service workers,Missouri,employment,0.016430692954377976
+1116,Production and Specialized Services Managers,Missouri,employment,0.01776622701517463
+1117,Sales workers,Missouri,employment,0.019288326980345688
+1118,Science and engineering professionals,Missouri,employment,0.008007181475023181
+1119,Stationary plant and machine operators,Missouri,employment,0.005720803711897256
+1120,Teaching professionals,Missouri,employment,0.015383725872109663
+1121,Assemblers,Missouri,job_offer_data,0.00218464637123539
+1122,Building and Related Trades Workers (excluding Electricians),Missouri,job_offer_data,0.010638203614611604
+1123,Business and administration professionals,Missouri,job_offer_data,0.01611765487920539
+1124,"Chief executives, senior officials and legislators",Missouri,job_offer_data,0.014329097490057955
+1125,Cleaners and helpers,Missouri,job_offer_data,0.014936700587512858
+1126,Commissioned armed forces officers,Missouri,job_offer_data,0.002769217093150801
+1127,Drivers and mobile plant operators,Missouri,job_offer_data,0.009797863890608409
+1128,Electrical and Electronics Trades Workers,Missouri,job_offer_data,0.0066436504855018905
+1129,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Missouri,job_offer_data,0.00421111085430967
+1130,General and keyboard clerks,Missouri,job_offer_data,0.02126646172543432
+1131,Handicraft and printing workers,Missouri,job_offer_data,0.0030487281853159203
+1132,Health professionals,Missouri,job_offer_data,0.015891532619295844
+1133,Information and communications technology professionals,Missouri,job_offer_data,0.011106384956916411
+1134,"Labourers in mining, construction, manufacturing and transport",Missouri,job_offer_data,0.019670694777206926
+1135,"Legal, social and cultural professionals",Missouri,job_offer_data,0.01904701643946519
+1136,Market-oriented skilled agricultural workers,Missouri,job_offer_data,0.003932097583698749
+1137,"Metal, machinery and related trades workers",Missouri,job_offer_data,0.011884056926015454
+1138,Personal service workers,Missouri,job_offer_data,0.0166935575181413
+1139,Production and Specialized Services Managers,Missouri,job_offer_data,0.017916745935177336
+1140,Sales workers,Missouri,job_offer_data,0.01937588200489774
+1141,Science and engineering professionals,Missouri,job_offer_data,0.00808055590164465
+1142,Stationary plant and machine operators,Missouri,job_offer_data,0.005652724433090676
+1143,Teaching professionals,Missouri,job_offer_data,0.015344319032220301
+1144,Building and Related Trades Workers (excluding Electricians),Montana,employment,0.0018764807224667965
+1145,Business and administration professionals,Montana,employment,0.003041635707913923
+1146,"Chief executives, senior officials and legislators",Montana,employment,0.0030359973153168125
+1147,Cleaners and helpers,Montana,employment,0.002428551318512325
+1148,Commissioned armed forces officers,Montana,employment,0.0005599584616030027
+1149,Drivers and mobile plant operators,Montana,employment,0.0016568021498637748
+1150,Electrical and Electronics Trades Workers,Montana,employment,0.001081408575193269
+1151,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Montana,employment,0.0010741842550914878
+1152,General and keyboard clerks,Montana,employment,0.0023929239892279937
+1153,Handicraft and printing workers,Montana,employment,0.00042511280324965175
+1154,Health professionals,Montana,employment,0.003025236003089968
+1155,Information and communications technology professionals,Montana,employment,0.0016087817754672734
+1156,"Labourers in mining, construction, manufacturing and transport",Montana,employment,0.0022517204654401504
+1157,"Legal, social and cultural professionals",Montana,employment,0.0020169500258451155
+1158,Market-oriented skilled agricultural workers,Montana,employment,0.0006657818127100981
+1159,"Metal, machinery and related trades workers",Montana,employment,0.001400819729718806
+1160,Personal service workers,Montana,employment,0.004402977135264961
+1161,Production and Specialized Services Managers,Montana,employment,0.0035137820234541926
+1162,Sales workers,Montana,employment,0.0026297628772456055
+1163,Science and engineering professionals,Montana,employment,0.0025009812801972233
+1164,Stationary plant and machine operators,Montana,employment,0.001189003670040314
+1165,Teaching professionals,Montana,employment,0.0018652148231459648
+1166,Building and Related Trades Workers (excluding Electricians),Montana,job_offer_data,0.0018719270422463785
+1167,Business and administration professionals,Montana,job_offer_data,0.0030070862803083173
+1168,"Chief executives, senior officials and legislators",Montana,job_offer_data,0.0030059606748282417
+1169,Cleaners and helpers,Montana,job_offer_data,0.002407579684393416
+1170,Commissioned armed forces officers,Montana,job_offer_data,0.0005467194926135557
+1171,Drivers and mobile plant operators,Montana,job_offer_data,0.0016384563120345828
+1172,Electrical and Electronics Trades Workers,Montana,job_offer_data,0.001067782133348509
+1173,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Montana,job_offer_data,0.0010520694214469165
+1174,General and keyboard clerks,Montana,job_offer_data,0.0023824801641975524
+1175,Handicraft and printing workers,Montana,job_offer_data,0.0004011695908177155
+1176,Health professionals,Montana,job_offer_data,0.0030249368786564625
+1177,Information and communications technology professionals,Montana,job_offer_data,0.0016043566424924474
+1178,"Labourers in mining, construction, manufacturing and transport",Montana,job_offer_data,0.002244329451358429
+1179,"Legal, social and cultural professionals",Montana,job_offer_data,0.002042516553039197
+1180,Market-oriented skilled agricultural workers,Montana,job_offer_data,0.0006446152115863041
+1181,"Metal, machinery and related trades workers",Montana,job_offer_data,0.0013840293118405475
+1182,Personal service workers,Montana,job_offer_data,0.004411578121222478
+1183,Production and Specialized Services Managers,Montana,job_offer_data,0.0034943865389541096
+1184,Sales workers,Montana,job_offer_data,0.002633841429077205
+1185,Science and engineering professionals,Montana,job_offer_data,0.0024891821190168298
+1186,Stationary plant and machine operators,Montana,job_offer_data,0.0011769571819304414
+1187,Teaching professionals,Montana,job_offer_data,0.0018563155145656077
+1188,Building and Related Trades Workers (excluding Electricians),Nebraska,employment,0.0027879386050991503
+1189,Business and administration professionals,Nebraska,employment,0.005687971729137387
+1190,"Chief executives, senior officials and legislators",Nebraska,employment,0.005079009383746717
+1191,Cleaners and helpers,Nebraska,employment,0.004881098169114931
+1192,Commissioned armed forces officers,Nebraska,employment,0.0008756906668582636
+1193,Drivers and mobile plant operators,Nebraska,employment,0.00497858884586389
+1194,Electrical and Electronics Trades Workers,Nebraska,employment,0.0020750194140880637
+1195,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Nebraska,employment,0.005647200090713811
+1196,General and keyboard clerks,Nebraska,employment,0.006076992630718967
+1197,Handicraft and printing workers,Nebraska,employment,0.0011774239181185286
+1198,Health professionals,Nebraska,employment,0.004532142470056187
+1199,Information and communications technology professionals,Nebraska,employment,0.0036490062762840163
+1200,"Labourers in mining, construction, manufacturing and transport",Nebraska,employment,0.005807049566902313
+1201,"Legal, social and cultural professionals",Nebraska,employment,0.005391317950545264
+1202,Market-oriented skilled agricultural workers,Nebraska,employment,0.0015211293463319895
+1203,"Metal, machinery and related trades workers",Nebraska,employment,0.002945337683468124
+1204,Personal service workers,Nebraska,employment,0.007255183307053475
+1205,Production and Specialized Services Managers,Nebraska,employment,0.0053399672575887985
+1206,Sales workers,Nebraska,employment,0.005607783863688968
+1207,Science and engineering professionals,Nebraska,employment,0.0037858643390225044
+1208,Stationary plant and machine operators,Nebraska,employment,0.003319743471554547
+1209,Teaching professionals,Nebraska,employment,0.004881454319114646
+1210,Building and Related Trades Workers (excluding Electricians),Nebraska,job_offer_data,0.002748270772968386
+1211,Business and administration professionals,Nebraska,job_offer_data,0.005659813940698514
+1212,"Chief executives, senior officials and legislators",Nebraska,job_offer_data,0.005027218111909975
+1213,Cleaners and helpers,Nebraska,job_offer_data,0.004859248735039198
+1214,Commissioned armed forces officers,Nebraska,job_offer_data,0.0008179942029498886
+1215,Drivers and mobile plant operators,Nebraska,job_offer_data,0.004931500947992011
+1216,Electrical and Electronics Trades Workers,Nebraska,job_offer_data,0.0020216362335508317
+1217,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Nebraska,job_offer_data,0.005589498420754124
+1218,General and keyboard clerks,Nebraska,job_offer_data,0.005996773452645657
+1219,Handicraft and printing workers,Nebraska,job_offer_data,0.0011202048214004323
+1220,Health professionals,Nebraska,job_offer_data,0.0045804641835013975
+1221,Information and communications technology professionals,Nebraska,job_offer_data,0.003561558146384863
+1222,"Labourers in mining, construction, manufacturing and transport",Nebraska,job_offer_data,0.005768551784937855
+1223,"Legal, social and cultural professionals",Nebraska,job_offer_data,0.005470962990595018
+1224,Market-oriented skilled agricultural workers,Nebraska,job_offer_data,0.0014664171063780468
+1225,"Metal, machinery and related trades workers",Nebraska,job_offer_data,0.0028728508741141918
+1226,Personal service workers,Nebraska,job_offer_data,0.007395551005662536
+1227,Production and Specialized Services Managers,Nebraska,job_offer_data,0.005302938910145531
+1228,Sales workers,Nebraska,job_offer_data,0.005613032443527229
+1229,Science and engineering professionals,Nebraska,job_offer_data,0.0037115283190491143
+1230,Stationary plant and machine operators,Nebraska,job_offer_data,0.0032857609220748566
+1231,Teaching professionals,Nebraska,job_offer_data,0.004832157025104784
+1232,Building and Related Trades Workers (excluding Electricians),Nevada,employment,0.006500679304497008
+1233,Business and administration professionals,Nevada,employment,0.00838162224068581
+1234,"Chief executives, senior officials and legislators",Nevada,employment,0.008925627924608517
+1235,Cleaners and helpers,Nevada,employment,0.00837470278793066
+1236,Drivers and mobile plant operators,Nevada,employment,0.008072778567173198
+1237,Electrical and Electronics Trades Workers,Nevada,employment,0.003685929077458971
+1238,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Nevada,employment,0.002778325711610458
+1239,General and keyboard clerks,Nevada,employment,0.012736873785715655
+1240,Handicraft and printing workers,Nevada,employment,0.0014792857474302552
+1241,Health professionals,Nevada,employment,0.009282418176752223
+1242,Information and communications technology professionals,Nevada,employment,0.0057018317288299635
+1243,"Labourers in mining, construction, manufacturing and transport",Nevada,employment,0.010295413807946125
+1244,"Legal, social and cultural professionals",Nevada,employment,0.009259653546029336
+1245,"Metal, machinery and related trades workers",Nevada,employment,0.006476401556023884
+1246,Personal service workers,Nevada,employment,0.0145775425416221
+1247,Production and Specialized Services Managers,Nevada,employment,0.007848159701903007
+1248,Sales workers,Nevada,employment,0.009253360021934515
+1249,Science and engineering professionals,Nevada,employment,0.006071961404107934
+1250,Stationary plant and machine operators,Nevada,employment,0.003080379486660838
+1251,Teaching professionals,Nevada,employment,0.006649352553824776
+1252,Building and Related Trades Workers (excluding Electricians),Nevada,job_offer_data,0.00649462219329955
+1253,Business and administration professionals,Nevada,job_offer_data,0.008293513715990106
+1254,"Chief executives, senior officials and legislators",Nevada,job_offer_data,0.00893516911924622
+1255,Cleaners and helpers,Nevada,job_offer_data,0.008372156974313906
+1256,Drivers and mobile plant operators,Nevada,job_offer_data,0.008083079011817866
+1257,Electrical and Electronics Trades Workers,Nevada,job_offer_data,0.0036535216566989824
+1258,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Nevada,job_offer_data,0.00274680704345765
+1259,General and keyboard clerks,Nevada,job_offer_data,0.012760031092857222
+1260,Handicraft and printing workers,Nevada,job_offer_data,0.0014134873013690427
+1261,Health professionals,Nevada,job_offer_data,0.009282678468192628
+1262,Information and communications technology professionals,Nevada,job_offer_data,0.00571488876803991
+1263,"Labourers in mining, construction, manufacturing and transport",Nevada,job_offer_data,0.010298182840049035
+1264,"Legal, social and cultural professionals",Nevada,job_offer_data,0.009251697298623624
+1265,"Metal, machinery and related trades workers",Nevada,job_offer_data,0.006451784518357957
+1266,Personal service workers,Nevada,job_offer_data,0.014619047200847182
+1267,Production and Specialized Services Managers,Nevada,job_offer_data,0.007836152081858337
+1268,Sales workers,Nevada,job_offer_data,0.009220735216568595
+1269,Science and engineering professionals,Nevada,job_offer_data,0.006086349404157323
+1270,Stationary plant and machine operators,Nevada,job_offer_data,0.0030480124297844326
+1271,Teaching professionals,Nevada,job_offer_data,0.0066388102418229586
+1272,Assemblers,New Hampshire,employment,0.0007748553658935822
+1273,Building and Related Trades Workers (excluding Electricians),New Hampshire,employment,0.002931534577205596
+1274,Business and administration professionals,New Hampshire,employment,0.005593309506733188
+1275,"Chief executives, senior officials and legislators",New Hampshire,employment,0.004489756703491535
+1276,Cleaners and helpers,New Hampshire,employment,0.002521754473741675
+1277,Commissioned armed forces officers,New Hampshire,employment,0.0010824549713471484
+1278,Drivers and mobile plant operators,New Hampshire,employment,0.0022923033313168614
+1279,Electrical and Electronics Trades Workers,New Hampshire,employment,0.0018945088337521314
+1280,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Hampshire,employment,0.0022828203108271254
+1281,General and keyboard clerks,New Hampshire,employment,0.00485186570734295
+1282,Health professionals,New Hampshire,employment,0.004388071245690625
+1283,Information and communications technology professionals,New Hampshire,employment,0.00420110831008456
+1284,"Labourers in mining, construction, manufacturing and transport",New Hampshire,employment,0.005340249449927108
+1285,"Legal, social and cultural professionals",New Hampshire,employment,0.0030041772616528433
+1286,Market-oriented skilled agricultural workers,New Hampshire,employment,0.0012968091406130252
+1287,"Metal, machinery and related trades workers",New Hampshire,employment,0.004048217896573069
+1288,Personal service workers,New Hampshire,employment,0.00555681652785374
+1289,Production and Specialized Services Managers,New Hampshire,employment,0.003371413721092044
+1290,Sales workers,New Hampshire,employment,0.0050840776712740236
+1291,Science and engineering professionals,New Hampshire,employment,0.0037689420893550125
+1292,Stationary plant and machine operators,New Hampshire,employment,0.0014819262621031343
+1293,Teaching professionals,New Hampshire,employment,0.003407094435360303
+1294,Assemblers,New Hampshire,job_offer_data,0.0007632043632988057
+1295,Building and Related Trades Workers (excluding Electricians),New Hampshire,job_offer_data,0.002921576432872726
+1296,Business and administration professionals,New Hampshire,job_offer_data,0.00558917366926315
+1297,"Chief executives, senior officials and legislators",New Hampshire,job_offer_data,0.004459687938752281
+1298,Cleaners and helpers,New Hampshire,job_offer_data,0.0025122361948619904
+1299,Commissioned armed forces officers,New Hampshire,job_offer_data,0.0010719561698931796
+1300,Drivers and mobile plant operators,New Hampshire,job_offer_data,0.0022868715703298903
+1301,Electrical and Electronics Trades Workers,New Hampshire,job_offer_data,0.0018785028723275064
+1302,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Hampshire,job_offer_data,0.0022850185428478858
+1303,General and keyboard clerks,New Hampshire,job_offer_data,0.004852912967813555
+1304,Health professionals,New Hampshire,job_offer_data,0.004400267624309077
+1305,Information and communications technology professionals,New Hampshire,job_offer_data,0.0041750346991784575
+1306,"Labourers in mining, construction, manufacturing and transport",New Hampshire,job_offer_data,0.005333790301835775
+1307,"Legal, social and cultural professionals",New Hampshire,job_offer_data,0.0029802928523319475
+1308,Market-oriented skilled agricultural workers,New Hampshire,job_offer_data,0.0012793489422985092
+1309,"Metal, machinery and related trades workers",New Hampshire,job_offer_data,0.004055664849968835
+1310,Personal service workers,New Hampshire,job_offer_data,0.005573655889433161
+1311,Production and Specialized Services Managers,New Hampshire,job_offer_data,0.003390413139580513
+1312,Sales workers,New Hampshire,job_offer_data,0.0050742099181532
+1313,Science and engineering professionals,New Hampshire,job_offer_data,0.0038237970308967442
+1314,Stationary plant and machine operators,New Hampshire,job_offer_data,0.00147723782766785
+1315,Teaching professionals,New Hampshire,job_offer_data,0.0034025498601632604
+1316,Assemblers,New Jersey,employment,0.002243306688720966
+1317,Building and Related Trades Workers (excluding Electricians),New Jersey,employment,0.015400958484491363
+1318,Business and administration professionals,New Jersey,employment,0.03234803638055495
+1319,"Chief executives, senior officials and legislators",New Jersey,employment,0.023142881901129137
+1320,Cleaners and helpers,New Jersey,employment,0.01574734207471497
+1321,Commissioned armed forces officers,New Jersey,employment,0.004955650981913302
+1322,Drivers and mobile plant operators,New Jersey,employment,0.014234707283893732
+1323,Electrical and Electronics Trades Workers,New Jersey,employment,0.009398987693518546
+1324,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Jersey,employment,0.010905936033642823
+1325,General and keyboard clerks,New Jersey,employment,0.02423903799238055
+1326,Handicraft and printing workers,New Jersey,employment,0.005778076238742393
+1327,Health professionals,New Jersey,employment,0.026328981235675158
+1328,Information and communications technology professionals,New Jersey,employment,0.02617374084462201
+1329,"Labourers in mining, construction, manufacturing and transport",New Jersey,employment,0.01663447542293577
+1330,"Legal, social and cultural professionals",New Jersey,employment,0.020745683475094468
+1331,Market-oriented skilled agricultural workers,New Jersey,employment,0.003334494777426324
+1332,"Metal, machinery and related trades workers",New Jersey,employment,0.018250507202834026
+1333,Personal service workers,New Jersey,employment,0.030604868180204307
+1334,Production and Specialized Services Managers,New Jersey,employment,0.012982610038865892
+1335,Sales workers,New Jersey,employment,0.021577398767737583
+1336,Science and engineering professionals,New Jersey,employment,0.013844179557298233
+1337,Stationary plant and machine operators,New Jersey,employment,0.006720490934930084
+1338,Teaching professionals,New Jersey,employment,0.023346142008919095
+1339,Assemblers,New Jersey,job_offer_data,0.0021330301198721046
+1340,Building and Related Trades Workers (excluding Electricians),New Jersey,job_offer_data,0.015373007999952155
+1341,Business and administration professionals,New Jersey,job_offer_data,0.0319397126632997
+1342,"Chief executives, senior officials and legislators",New Jersey,job_offer_data,0.022949594822038573
+1343,Cleaners and helpers,New Jersey,job_offer_data,0.015589511111135138
+1344,Commissioned armed forces officers,New Jersey,job_offer_data,0.004840526262910293
+1345,Drivers and mobile plant operators,New Jersey,job_offer_data,0.014088442541918154
+1346,Electrical and Electronics Trades Workers,New Jersey,job_offer_data,0.009299667585003031
+1347,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Jersey,job_offer_data,0.010803995233183128
+1348,General and keyboard clerks,New Jersey,job_offer_data,0.02426674691922351
+1349,Handicraft and printing workers,New Jersey,job_offer_data,0.0056617367801212685
+1350,Health professionals,New Jersey,job_offer_data,0.026133887679906168
+1351,Information and communications technology professionals,New Jersey,job_offer_data,0.02613804819430664
+1352,"Labourers in mining, construction, manufacturing and transport",New Jersey,job_offer_data,0.01688129416315347
+1353,"Legal, social and cultural professionals",New Jersey,job_offer_data,0.020480554861284323
+1354,Market-oriented skilled agricultural workers,New Jersey,job_offer_data,0.0032269579733698282
+1355,"Metal, machinery and related trades workers",New Jersey,job_offer_data,0.0181295578604983
+1356,Personal service workers,New Jersey,job_offer_data,0.030667155119598187
+1357,Production and Specialized Services Managers,New Jersey,job_offer_data,0.01327950758188184
+1358,Sales workers,New Jersey,job_offer_data,0.02157490543984018
+1359,Science and engineering professionals,New Jersey,job_offer_data,0.013879960674631715
+1360,Stationary plant and machine operators,New Jersey,job_offer_data,0.0067006990414510345
+1361,Teaching professionals,New Jersey,job_offer_data,0.022316665265872594
+1362,Building and Related Trades Workers (excluding Electricians),New Mexico,employment,0.004096951434221865
+1363,Business and administration professionals,New Mexico,employment,0.004486358053702439
+1364,"Chief executives, senior officials and legislators",New Mexico,employment,0.0038808831109092864
+1365,Cleaners and helpers,New Mexico,employment,0.004396149716783795
+1366,Commissioned armed forces officers,New Mexico,employment,0.0014408880999732263
+1367,Drivers and mobile plant operators,New Mexico,employment,0.004209840626739407
+1368,Electrical and Electronics Trades Workers,New Mexico,employment,0.0026452193782293566
+1369,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Mexico,employment,0.0037730124891571662
+1370,General and keyboard clerks,New Mexico,employment,0.00524110076441273
+1371,Handicraft and printing workers,New Mexico,employment,0.001867070209317034
+1372,Health professionals,New Mexico,employment,0.004803038642692522
+1373,Information and communications technology professionals,New Mexico,employment,0.00331527392273412
+1374,"Labourers in mining, construction, manufacturing and transport",New Mexico,employment,0.005569200423781387
+1375,"Legal, social and cultural professionals",New Mexico,employment,0.004807971174338303
+1376,"Metal, machinery and related trades workers",New Mexico,employment,0.004012908230077499
+1377,Personal service workers,New Mexico,employment,0.007344596165429047
+1378,Production and Specialized Services Managers,New Mexico,employment,0.004726630744793324
+1379,Sales workers,New Mexico,employment,0.005866642316500454
+1380,Science and engineering professionals,New Mexico,employment,0.004732068085100412
+1381,Stationary plant and machine operators,New Mexico,employment,0.002438165603029846
+1382,Teaching professionals,New Mexico,employment,0.0054894567331889715
+1383,Building and Related Trades Workers (excluding Electricians),New Mexico,job_offer_data,0.004103492774871353
+1384,Business and administration professionals,New Mexico,job_offer_data,0.004487703031260586
+1385,"Chief executives, senior officials and legislators",New Mexico,job_offer_data,0.0038556354258283323
+1386,Cleaners and helpers,New Mexico,job_offer_data,0.004390020086090341
+1387,Commissioned armed forces officers,New Mexico,job_offer_data,0.0014202768196385947
+1388,Drivers and mobile plant operators,New Mexico,job_offer_data,0.004210308843533456
+1389,Electrical and Electronics Trades Workers,New Mexico,job_offer_data,0.0026345308260946523
+1390,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New Mexico,job_offer_data,0.003759329129910445
+1391,General and keyboard clerks,New Mexico,job_offer_data,0.005225125796836405
+1392,Handicraft and printing workers,New Mexico,job_offer_data,0.001852814874345708
+1393,Health professionals,New Mexico,job_offer_data,0.004839691885676027
+1394,Information and communications technology professionals,New Mexico,job_offer_data,0.003333377558668261
+1395,"Labourers in mining, construction, manufacturing and transport",New Mexico,job_offer_data,0.005566865128094795
+1396,"Legal, social and cultural professionals",New Mexico,job_offer_data,0.0047952548538557
+1397,"Metal, machinery and related trades workers",New Mexico,job_offer_data,0.003997251091003113
+1398,Personal service workers,New Mexico,job_offer_data,0.007358471151759676
+1399,Production and Specialized Services Managers,New Mexico,job_offer_data,0.004731480848721504
+1400,Sales workers,New Mexico,job_offer_data,0.005874303270623807
+1401,Science and engineering professionals,New Mexico,job_offer_data,0.004729868199089625
+1402,Stationary plant and machine operators,New Mexico,job_offer_data,0.0024299540671107013
+1403,Teaching professionals,New Mexico,job_offer_data,0.005496679926666458
+1404,Assemblers,New York,employment,0.004564387251793628
+1405,Building and Related Trades Workers (excluding Electricians),New York,employment,0.030327182531852768
+1406,Business and administration professionals,New York,employment,0.0403119317440921
+1407,"Chief executives, senior officials and legislators",New York,employment,0.03296764246804112
+1408,Cleaners and helpers,New York,employment,0.028451652984786146
+1409,Commissioned armed forces officers,New York,employment,0.005823202760738406
+1410,Drivers and mobile plant operators,New York,employment,0.02312273841669745
+1411,Electrical and Electronics Trades Workers,New York,employment,0.01237560827692352
+1412,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New York,employment,0.013603379650596072
+1413,General and keyboard clerks,New York,employment,0.03443704176977275
+1414,Handicraft and printing workers,New York,employment,0.007844115615910792
+1415,Health professionals,New York,employment,0.03346862545111753
+1416,Information and communications technology professionals,New York,employment,0.021013670763068863
+1417,"Labourers in mining, construction, manufacturing and transport",New York,employment,0.031282864281975326
+1418,"Legal, social and cultural professionals",New York,employment,0.04115523385675793
+1419,Market-oriented skilled agricultural workers,New York,employment,0.0065481661011255665
+1420,"Metal, machinery and related trades workers",New York,employment,0.02005860721452488
+1421,Personal service workers,New York,employment,0.04585134905175657
+1422,Production and Specialized Services Managers,New York,employment,0.024291502122060462
+1423,Sales workers,New York,employment,0.03264881861673991
+1424,Science and engineering professionals,New York,employment,0.02546710178934571
+1425,Stationary plant and machine operators,New York,employment,0.010994409897325986
+1426,Teaching professionals,New York,employment,0.029740306560695116
+1427,Assemblers,New York,job_offer_data,0.004404326355894924
+1428,Building and Related Trades Workers (excluding Electricians),New York,job_offer_data,0.030278963909113586
+1429,Business and administration professionals,New York,job_offer_data,0.040149485552352364
+1430,"Chief executives, senior officials and legislators",New York,job_offer_data,0.0328536447796459
+1431,Cleaners and helpers,New York,job_offer_data,0.028467956356808627
+1432,Commissioned armed forces officers,New York,job_offer_data,0.00570221769443449
+1433,Drivers and mobile plant operators,New York,job_offer_data,0.023057548707508174
+1434,Electrical and Electronics Trades Workers,New York,job_offer_data,0.012262574975563434
+1435,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",New York,job_offer_data,0.013543200959413878
+1436,General and keyboard clerks,New York,job_offer_data,0.03426900109854106
+1437,Handicraft and printing workers,New York,job_offer_data,0.007760296878137636
+1438,Health professionals,New York,job_offer_data,0.033427749338407274
+1439,Information and communications technology professionals,New York,job_offer_data,0.020827518181685864
+1440,"Labourers in mining, construction, manufacturing and transport",New York,job_offer_data,0.031311200662660334
+1441,"Legal, social and cultural professionals",New York,job_offer_data,0.04083270062215384
+1442,Market-oriented skilled agricultural workers,New York,job_offer_data,0.006423014988966391
+1443,"Metal, machinery and related trades workers",New York,job_offer_data,0.019997960535265858
+1444,Personal service workers,New York,job_offer_data,0.04592757765568684
+1445,Production and Specialized Services Managers,New York,job_offer_data,0.0241789782923865
+1446,Sales workers,New York,job_offer_data,0.03260897285576631
+1447,Science and engineering professionals,New York,job_offer_data,0.02542783273153332
+1448,Stationary plant and machine operators,New York,job_offer_data,0.010915215860137389
+1449,Teaching professionals,New York,job_offer_data,0.02965565060593795
+1450,Assemblers,North Carolina,employment,0.0034901359001315393
+1451,Building and Related Trades Workers (excluding Electricians),North Carolina,employment,0.01872341141697879
+1452,Business and administration professionals,North Carolina,employment,0.031949557017701864
+1453,"Chief executives, senior officials and legislators",North Carolina,employment,0.022434869829101225
+1454,Cleaners and helpers,North Carolina,employment,0.024047546795345723
+1455,Commissioned armed forces officers,North Carolina,employment,0.00483636766410326
+1456,Drivers and mobile plant operators,North Carolina,employment,0.01531758517625575
+1457,Electrical and Electronics Trades Workers,North Carolina,employment,0.008245518378990119
+1458,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",North Carolina,employment,0.013603150123418211
+1459,General and keyboard clerks,North Carolina,employment,0.026125041544489438
+1460,Handicraft and printing workers,North Carolina,employment,0.0035294572047334448
+1461,Health professionals,North Carolina,employment,0.020952440454532827
+1462,Information and communications technology professionals,North Carolina,employment,0.017664443960808095
+1463,"Labourers in mining, construction, manufacturing and transport",North Carolina,employment,0.026875033199623956
+1464,"Legal, social and cultural professionals",North Carolina,employment,0.019741703517377876
+1465,Market-oriented skilled agricultural workers,North Carolina,employment,0.00498960072395341
+1466,"Metal, machinery and related trades workers",North Carolina,employment,0.014380400529186007
+1467,Personal service workers,North Carolina,employment,0.029998584859191928
+1468,Production and Specialized Services Managers,North Carolina,employment,0.020464811459151702
+1469,Sales workers,North Carolina,employment,0.02234719000074614
+1470,Science and engineering professionals,North Carolina,employment,0.017386381511530685
+1471,Stationary plant and machine operators,North Carolina,employment,0.010319912474881435
+1472,Teaching professionals,North Carolina,employment,0.01883324698180724
+1473,Assemblers,North Carolina,job_offer_data,0.003366134130844714
+1474,Building and Related Trades Workers (excluding Electricians),North Carolina,job_offer_data,0.01861653939922401
+1475,Business and administration professionals,North Carolina,job_offer_data,0.03160792823841759
+1476,"Chief executives, senior officials and legislators",North Carolina,job_offer_data,0.022242600745258006
+1477,Cleaners and helpers,North Carolina,job_offer_data,0.023938515532517846
+1478,Commissioned armed forces officers,North Carolina,job_offer_data,0.004775383486118205
+1479,Drivers and mobile plant operators,North Carolina,job_offer_data,0.01526636572651823
+1480,Electrical and Electronics Trades Workers,North Carolina,job_offer_data,0.008182606182323854
+1481,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",North Carolina,job_offer_data,0.01351850291085159
+1482,General and keyboard clerks,North Carolina,job_offer_data,0.02595499673700411
+1483,Handicraft and printing workers,North Carolina,job_offer_data,0.0034210105523053546
+1484,Health professionals,North Carolina,job_offer_data,0.02071818254147891
+1485,Information and communications technology professionals,North Carolina,job_offer_data,0.017615538274753744
+1486,"Labourers in mining, construction, manufacturing and transport",North Carolina,job_offer_data,0.02676145139525885
+1487,"Legal, social and cultural professionals",North Carolina,job_offer_data,0.01969791621572938
+1488,Market-oriented skilled agricultural workers,North Carolina,job_offer_data,0.004857245735534111
+1489,"Metal, machinery and related trades workers",North Carolina,job_offer_data,0.014305271645162156
+1490,Personal service workers,North Carolina,job_offer_data,0.03001384029447452
+1491,Production and Specialized Services Managers,North Carolina,job_offer_data,0.02038520423123242
+1492,Sales workers,North Carolina,job_offer_data,0.02232037772884497
+1493,Science and engineering professionals,North Carolina,job_offer_data,0.01729011860182791
+1494,Stationary plant and machine operators,North Carolina,job_offer_data,0.010213302745951896
+1495,Teaching professionals,North Carolina,job_offer_data,0.018707663112340726
+1496,Building and Related Trades Workers (excluding Electricians),North Dakota,employment,0.001652880861421294
+1497,Business and administration professionals,North Dakota,employment,0.001761829121977006
+1498,"Chief executives, senior officials and legislators",North Dakota,employment,0.0014846856400088566
+1499,Cleaners and helpers,North Dakota,employment,0.0016718184559031172
+1500,Commissioned armed forces officers,North Dakota,employment,0.000580191144104288
+1501,Drivers and mobile plant operators,North Dakota,employment,0.0015586994718345892
+1502,Electrical and Electronics Trades Workers,North Dakota,employment,0.0009019164401666102
+1503,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",North Dakota,employment,0.00114113523063464
+1504,General and keyboard clerks,North Dakota,employment,0.002356726905467416
+1505,Health professionals,North Dakota,employment,0.002203766977179061
+1506,Information and communications technology professionals,North Dakota,employment,0.001047534337046644
+1507,"Labourers in mining, construction, manufacturing and transport",North Dakota,employment,0.0016510993063841091
+1508,"Legal, social and cultural professionals",North Dakota,employment,0.0014734846894603817
+1509,"Metal, machinery and related trades workers",North Dakota,employment,0.0015081619737916953
+1510,Personal service workers,North Dakota,employment,0.0029994237667405306
+1511,Production and Specialized Services Managers,North Dakota,employment,0.001768299533164108
+1512,Sales workers,North Dakota,employment,0.0020662165104721533
+1513,Science and engineering professionals,North Dakota,employment,0.001453301306759395
+1514,Stationary plant and machine operators,North Dakota,employment,0.001004756320046851
+1515,Teaching professionals,North Dakota,employment,0.0019318912934347381
+1516,Building and Related Trades Workers (excluding Electricians),North Dakota,job_offer_data,0.00164238329859404
+1517,Business and administration professionals,North Dakota,job_offer_data,0.001739890991337336
+1518,"Chief executives, senior officials and legislators",North Dakota,job_offer_data,0.0014983450753451766
+1519,Cleaners and helpers,North Dakota,job_offer_data,0.001660170104883928
+1520,Commissioned armed forces officers,North Dakota,job_offer_data,0.0005668782452317415
+1521,Drivers and mobile plant operators,North Dakota,job_offer_data,0.001553302798670643
+1522,Electrical and Electronics Trades Workers,North Dakota,job_offer_data,0.0009036417095471028
+1523,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",North Dakota,job_offer_data,0.0011282141281685693
+1524,General and keyboard clerks,North Dakota,job_offer_data,0.0023603852464152662
+1525,Health professionals,North Dakota,job_offer_data,0.0022125050700823974
+1526,Information and communications technology professionals,North Dakota,job_offer_data,0.0010655469538273618
+1527,"Labourers in mining, construction, manufacturing and transport",North Dakota,job_offer_data,0.0016482328984106247
+1528,"Legal, social and cultural professionals",North Dakota,job_offer_data,0.0014637736669590442
+1529,"Metal, machinery and related trades workers",North Dakota,job_offer_data,0.0014994042161790638
+1530,Personal service workers,North Dakota,job_offer_data,0.0030105176428504147
+1531,Production and Specialized Services Managers,North Dakota,job_offer_data,0.0017463943461031486
+1532,Sales workers,North Dakota,job_offer_data,0.0020662306723449905
+1533,Science and engineering professionals,North Dakota,job_offer_data,0.001455401666073776
+1534,Stationary plant and machine operators,North Dakota,job_offer_data,0.000993739605325461
+1535,Teaching professionals,North Dakota,job_offer_data,0.0019326158464304346
+1536,Assemblers,Ohio,employment,0.004287911453171589
+1537,Building and Related Trades Workers (excluding Electricians),Ohio,employment,0.01516596028669141
+1538,Business and administration professionals,Ohio,employment,0.03267173450528551
+1539,"Chief executives, senior officials and legislators",Ohio,employment,0.030027743708788558
+1540,Cleaners and helpers,Ohio,employment,0.022270440550142212
+1541,Commissioned armed forces officers,Ohio,employment,0.004666767461305762
+1542,Drivers and mobile plant operators,Ohio,employment,0.01908447864572977
+1543,Electrical and Electronics Trades Workers,Ohio,employment,0.008978717070255647
+1544,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Ohio,employment,0.01227053422969394
+1545,General and keyboard clerks,Ohio,employment,0.026103895966470624
+1546,Handicraft and printing workers,Ohio,employment,0.005015829166693696
+1547,Health professionals,Ohio,employment,0.028981548485985848
+1548,Information and communications technology professionals,Ohio,employment,0.01440829508395421
+1549,"Labourers in mining, construction, manufacturing and transport",Ohio,employment,0.03092528021083928
+1550,"Legal, social and cultural professionals",Ohio,employment,0.022482896122584105
+1551,Market-oriented skilled agricultural workers,Ohio,employment,0.005234340617401971
+1552,"Metal, machinery and related trades workers",Ohio,employment,0.024170463173632698
+1553,Personal service workers,Ohio,employment,0.03453588714707481
+1554,Production and Specialized Services Managers,Ohio,employment,0.01886518843418172
+1555,Sales workers,Ohio,employment,0.025270878339269127
+1556,Science and engineering professionals,Ohio,employment,0.016254006260355457
+1557,Stationary plant and machine operators,Ohio,employment,0.00985920557827468
+1558,Teaching professionals,Ohio,employment,0.023728911516610655
+1559,Assemblers,Ohio,job_offer_data,0.004180753068132584
+1560,Building and Related Trades Workers (excluding Electricians),Ohio,job_offer_data,0.01511833045593364
+1561,Business and administration professionals,Ohio,job_offer_data,0.032477196235534
+1562,"Chief executives, senior officials and legislators",Ohio,job_offer_data,0.029896720339432626
+1563,Cleaners and helpers,Ohio,job_offer_data,0.022154640779927365
+1564,Commissioned armed forces officers,Ohio,job_offer_data,0.0045963783590145975
+1565,Drivers and mobile plant operators,Ohio,job_offer_data,0.019123216028079
+1566,Electrical and Electronics Trades Workers,Ohio,job_offer_data,0.008899194456907332
+1567,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Ohio,job_offer_data,0.012160146455551244
+1568,General and keyboard clerks,Ohio,job_offer_data,0.026068965197145504
+1569,Handicraft and printing workers,Ohio,job_offer_data,0.004899878448046331
+1570,Health professionals,Ohio,job_offer_data,0.02875629191716544
+1571,Information and communications technology professionals,Ohio,job_offer_data,0.014342154335051498
+1572,"Labourers in mining, construction, manufacturing and transport",Ohio,job_offer_data,0.030960119846288485
+1573,"Legal, social and cultural professionals",Ohio,job_offer_data,0.022590791075141437
+1574,Market-oriented skilled agricultural workers,Ohio,job_offer_data,0.005109827613590349
+1575,"Metal, machinery and related trades workers",Ohio,job_offer_data,0.024046165106716356
+1576,Personal service workers,Ohio,job_offer_data,0.034949925473155175
+1577,Production and Specialized Services Managers,Ohio,job_offer_data,0.018810191855254448
+1578,Sales workers,Ohio,job_offer_data,0.025216404754064815
+1579,Science and engineering professionals,Ohio,job_offer_data,0.016218951754849283
+1580,Stationary plant and machine operators,Ohio,job_offer_data,0.00972244228396652
+1581,Teaching professionals,Ohio,job_offer_data,0.023678779039732586
+1582,Assemblers,Oklahoma,employment,0.002180245682686142
+1583,Building and Related Trades Workers (excluding Electricians),Oklahoma,employment,0.008834464624961324
+1584,Business and administration professionals,Oklahoma,employment,0.011494360979762343
+1585,"Chief executives, senior officials and legislators",Oklahoma,employment,0.008560160328874624
+1586,Cleaners and helpers,Oklahoma,employment,0.00841969696763296
+1587,Commissioned armed forces officers,Oklahoma,employment,0.001666596951225197
+1588,Drivers and mobile plant operators,Oklahoma,employment,0.008138418959827486
+1589,Electrical and Electronics Trades Workers,Oklahoma,employment,0.0041561367847340915
+1590,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Oklahoma,employment,0.0041847866422748915
+1591,General and keyboard clerks,Oklahoma,employment,0.015072825693044587
+1592,Handicraft and printing workers,Oklahoma,employment,0.0026630212024413577
+1593,Health professionals,Oklahoma,employment,0.010931017378352986
+1594,Information and communications technology professionals,Oklahoma,employment,0.006854246459851687
+1595,"Labourers in mining, construction, manufacturing and transport",Oklahoma,employment,0.009829966024124868
+1596,"Legal, social and cultural professionals",Oklahoma,employment,0.00975749953671509
+1597,Market-oriented skilled agricultural workers,Oklahoma,employment,0.0031316898555769925
+1598,"Metal, machinery and related trades workers",Oklahoma,employment,0.00956077350020901
+1599,Personal service workers,Oklahoma,employment,0.01635794748631002
+1600,Production and Specialized Services Managers,Oklahoma,employment,0.01169154001411534
+1601,Sales workers,Oklahoma,employment,0.014212853743295294
+1602,Science and engineering professionals,Oklahoma,employment,0.006372328240053609
+1603,Stationary plant and machine operators,Oklahoma,employment,0.005227554848331681
+1604,Teaching professionals,Oklahoma,employment,0.00840813187773698
+1605,Assemblers,Oklahoma,job_offer_data,0.002089566009424765
+1606,Building and Related Trades Workers (excluding Electricians),Oklahoma,job_offer_data,0.008786264909766396
+1607,Business and administration professionals,Oklahoma,job_offer_data,0.011296233750485099
+1608,"Chief executives, senior officials and legislators",Oklahoma,job_offer_data,0.008613809810276315
+1609,Cleaners and helpers,Oklahoma,job_offer_data,0.008352444735518274
+1610,Commissioned armed forces officers,Oklahoma,job_offer_data,0.0015818240287456837
+1611,Drivers and mobile plant operators,Oklahoma,job_offer_data,0.0080793543765623
+1612,Electrical and Electronics Trades Workers,Oklahoma,job_offer_data,0.00408363982626257
+1613,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Oklahoma,job_offer_data,0.004140349184760804
+1614,General and keyboard clerks,Oklahoma,job_offer_data,0.01503595018927963
+1615,Handicraft and printing workers,Oklahoma,job_offer_data,0.0025917892756380165
+1616,Health professionals,Oklahoma,job_offer_data,0.010832998506161973
+1617,Information and communications technology professionals,Oklahoma,job_offer_data,0.006853901219427099
+1618,"Labourers in mining, construction, manufacturing and transport",Oklahoma,job_offer_data,0.009940047839941409
+1619,"Legal, social and cultural professionals",Oklahoma,job_offer_data,0.009666841066367535
+1620,Market-oriented skilled agricultural workers,Oklahoma,job_offer_data,0.0030333230508657366
+1621,"Metal, machinery and related trades workers",Oklahoma,job_offer_data,0.009527174636288818
+1622,Personal service workers,Oklahoma,job_offer_data,0.01640732776803785
+1623,Production and Specialized Services Managers,Oklahoma,job_offer_data,0.011644146218687482
+1624,Sales workers,Oklahoma,job_offer_data,0.014211184567738525
+1625,Science and engineering professionals,Oklahoma,job_offer_data,0.006357236776460467
+1626,Stationary plant and machine operators,Oklahoma,job_offer_data,0.0051641288769610485
+1627,Teaching professionals,Oklahoma,job_offer_data,0.008383450215574946
+1628,Building and Related Trades Workers (excluding Electricians),Oregon,employment,0.007934512696041824
+1629,Business and administration professionals,Oregon,employment,0.008888919455210005
+1630,"Chief executives, senior officials and legislators",Oregon,employment,0.012265673052501277
+1631,Cleaners and helpers,Oregon,employment,0.007857250960940542
+1632,Commissioned armed forces officers,Oregon,employment,0.002428579232653145
+1633,Drivers and mobile plant operators,Oregon,employment,0.006885629871249873
+1634,Electrical and Electronics Trades Workers,Oregon,employment,0.003233935345000196
+1635,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Oregon,employment,0.004519001559485169
+1636,General and keyboard clerks,Oregon,employment,0.011158064327244505
+1637,Handicraft and printing workers,Oregon,employment,0.0015697116211166075
+1638,Health professionals,Oregon,employment,0.008511131720056294
+1639,Information and communications technology professionals,Oregon,employment,0.007096528756041901
+1640,"Labourers in mining, construction, manufacturing and transport",Oregon,employment,0.009136666836048794
+1641,"Legal, social and cultural professionals",Oregon,employment,0.009153335230114561
+1642,Market-oriented skilled agricultural workers,Oregon,employment,0.003366452467120541
+1643,"Metal, machinery and related trades workers",Oregon,employment,0.009616427006177136
+1644,Personal service workers,Oregon,employment,0.012184895596696043
+1645,Production and Specialized Services Managers,Oregon,employment,0.011809558387197988
+1646,Sales workers,Oregon,employment,0.009630373207371146
+1647,Science and engineering professionals,Oregon,employment,0.009828185855540681
+1648,Stationary plant and machine operators,Oregon,employment,0.003283248813686358
+1649,Teaching professionals,Oregon,employment,0.008225133056999448
+1650,Building and Related Trades Workers (excluding Electricians),Oregon,job_offer_data,0.007934424519233681
+1651,Business and administration professionals,Oregon,job_offer_data,0.008622017423548607
+1652,"Chief executives, senior officials and legislators",Oregon,job_offer_data,0.012118611930539857
+1653,Cleaners and helpers,Oregon,job_offer_data,0.007790477643255928
+1654,Commissioned armed forces officers,Oregon,job_offer_data,0.002394784835053198
+1655,Drivers and mobile plant operators,Oregon,job_offer_data,0.006851867853621953
+1656,Electrical and Electronics Trades Workers,Oregon,job_offer_data,0.0032934915323022504
+1657,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Oregon,job_offer_data,0.004465374893496881
+1658,General and keyboard clerks,Oregon,job_offer_data,0.01105549490138292
+1659,Handicraft and printing workers,Oregon,job_offer_data,0.0015403939126753046
+1660,Health professionals,Oregon,job_offer_data,0.008417313297994859
+1661,Information and communications technology professionals,Oregon,job_offer_data,0.007205125051232953
+1662,"Labourers in mining, construction, manufacturing and transport",Oregon,job_offer_data,0.009078407169616234
+1663,"Legal, social and cultural professionals",Oregon,job_offer_data,0.00923577661195785
+1664,Market-oriented skilled agricultural workers,Oregon,job_offer_data,0.003316674652392739
+1665,"Metal, machinery and related trades workers",Oregon,job_offer_data,0.009527101278253099
+1666,Personal service workers,Oregon,job_offer_data,0.012408465772596295
+1667,Production and Specialized Services Managers,Oregon,job_offer_data,0.011778696811660959
+1668,Sales workers,Oregon,job_offer_data,0.00958915150889095
+1669,Science and engineering professionals,Oregon,job_offer_data,0.009758068769196097
+1670,Stationary plant and machine operators,Oregon,job_offer_data,0.003255543820973098
+1671,Teaching professionals,Oregon,job_offer_data,0.00819531730462389
+1672,Assemblers,Pennsylvania,employment,0.003112487429249333
+1673,Building and Related Trades Workers (excluding Electricians),Pennsylvania,employment,0.01939596308413337
+1674,Business and administration professionals,Pennsylvania,employment,0.03295951309476731
+1675,"Chief executives, senior officials and legislators",Pennsylvania,employment,0.0326350718449651
+1676,Cleaners and helpers,Pennsylvania,employment,0.014316613118456452
+1677,Commissioned armed forces officers,Pennsylvania,employment,0.006411860736277051
+1678,Drivers and mobile plant operators,Pennsylvania,employment,0.018336170064697784
+1679,Electrical and Electronics Trades Workers,Pennsylvania,employment,0.01026348040153268
+1680,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Pennsylvania,employment,0.012597054680159165
+1681,General and keyboard clerks,Pennsylvania,employment,0.029208100267809407
+1682,Handicraft and printing workers,Pennsylvania,employment,0.00469168210002739
+1683,Health professionals,Pennsylvania,employment,0.021573658078214243
+1684,Information and communications technology professionals,Pennsylvania,employment,0.018491385096503648
+1685,"Labourers in mining, construction, manufacturing and transport",Pennsylvania,employment,0.021921624629263708
+1686,"Legal, social and cultural professionals",Pennsylvania,employment,0.015560837680402206
+1687,Market-oriented skilled agricultural workers,Pennsylvania,employment,0.004148112835273966
+1688,"Metal, machinery and related trades workers",Pennsylvania,employment,0.018796796501955485
+1689,Personal service workers,Pennsylvania,employment,0.04319055410699667
+1690,Production and Specialized Services Managers,Pennsylvania,employment,0.030677218596449684
+1691,Sales workers,Pennsylvania,employment,0.01958278669140737
+1692,Science and engineering professionals,Pennsylvania,employment,0.019960543969807766
+1693,Stationary plant and machine operators,Pennsylvania,employment,0.008023562152773023
+1694,Teaching professionals,Pennsylvania,employment,0.018663312183502676
+1695,Assemblers,Pennsylvania,job_offer_data,0.0030133949797038553
+1696,Building and Related Trades Workers (excluding Electricians),Pennsylvania,job_offer_data,0.019349678153589355
+1697,Business and administration professionals,Pennsylvania,job_offer_data,0.032754169363713365
+1698,"Chief executives, senior officials and legislators",Pennsylvania,job_offer_data,0.03258299955795878
+1699,Cleaners and helpers,Pennsylvania,job_offer_data,0.014174912447274216
+1700,Commissioned armed forces officers,Pennsylvania,job_offer_data,0.006336127237074407
+1701,Drivers and mobile plant operators,Pennsylvania,job_offer_data,0.01832874248840223
+1702,Electrical and Electronics Trades Workers,Pennsylvania,job_offer_data,0.01021276524382151
+1703,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Pennsylvania,job_offer_data,0.012474444041725192
+1704,General and keyboard clerks,Pennsylvania,job_offer_data,0.02920288916823989
+1705,Handicraft and printing workers,Pennsylvania,job_offer_data,0.004641021595330522
+1706,Health professionals,Pennsylvania,job_offer_data,0.021596315600780916
+1707,Information and communications technology professionals,Pennsylvania,job_offer_data,0.018255261805503405
+1708,"Labourers in mining, construction, manufacturing and transport",Pennsylvania,job_offer_data,0.021875358311448052
+1709,"Legal, social and cultural professionals",Pennsylvania,job_offer_data,0.015499490526958997
+1710,Market-oriented skilled agricultural workers,Pennsylvania,job_offer_data,0.0039913150005940765
+1711,"Metal, machinery and related trades workers",Pennsylvania,job_offer_data,0.018731410196278345
+1712,Personal service workers,Pennsylvania,job_offer_data,0.04321106963435944
+1713,Production and Specialized Services Managers,Pennsylvania,job_offer_data,0.03055499679116235
+1714,Sales workers,Pennsylvania,job_offer_data,0.019741791199366077
+1715,Science and engineering professionals,Pennsylvania,job_offer_data,0.020074927764885536
+1716,Stationary plant and machine operators,Pennsylvania,job_offer_data,0.007915472902122713
+1717,Teaching professionals,Pennsylvania,job_offer_data,0.01860496984271676
+1718,Building and Related Trades Workers (excluding Electricians),Rhode Island,employment,0.003634762427497681
+1719,Business and administration professionals,Rhode Island,employment,0.005055939926974465
+1720,"Chief executives, senior officials and legislators",Rhode Island,employment,0.0039881665809070165
+1721,Cleaners and helpers,Rhode Island,employment,0.004154299484863535
+1722,Drivers and mobile plant operators,Rhode Island,employment,0.002788359831258058
+1723,Electrical and Electronics Trades Workers,Rhode Island,employment,0.0019313917595275526
+1724,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Rhode Island,employment,0.0026410014857091006
+1725,General and keyboard clerks,Rhode Island,employment,0.004283917419092627
+1726,Health professionals,Rhode Island,employment,0.003960330059619115
+1727,Information and communications technology professionals,Rhode Island,employment,0.002302767564079082
+1728,"Labourers in mining, construction, manufacturing and transport",Rhode Island,employment,0.004971142660472422
+1729,"Legal, social and cultural professionals",Rhode Island,employment,0.0037324072099245726
+1730,"Metal, machinery and related trades workers",Rhode Island,employment,0.002497782712153337
+1731,Personal service workers,Rhode Island,employment,0.0040714827480062875
+1732,Production and Specialized Services Managers,Rhode Island,employment,0.002942329754057033
+1733,Sales workers,Rhode Island,employment,0.005124596513361887
+1734,Science and engineering professionals,Rhode Island,employment,0.002971175955252121
+1735,Teaching professionals,Rhode Island,employment,0.0044446260480593795
+1736,Building and Related Trades Workers (excluding Electricians),Rhode Island,job_offer_data,0.003580221722461387
+1737,Business and administration professionals,Rhode Island,job_offer_data,0.005153171207988111
+1738,"Chief executives, senior officials and legislators",Rhode Island,job_offer_data,0.003931021221621296
+1739,Cleaners and helpers,Rhode Island,job_offer_data,0.004112987044259138
+1740,Drivers and mobile plant operators,Rhode Island,job_offer_data,0.002766539821742281
+1741,Electrical and Electronics Trades Workers,Rhode Island,job_offer_data,0.0018762151416057255
+1742,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Rhode Island,job_offer_data,0.002595270662872312
+1743,General and keyboard clerks,Rhode Island,job_offer_data,0.0042678506098096205
+1744,Health professionals,Rhode Island,job_offer_data,0.00400358970649673
+1745,Information and communications technology professionals,Rhode Island,job_offer_data,0.002320848773701063
+1746,"Labourers in mining, construction, manufacturing and transport",Rhode Island,job_offer_data,0.004947289227551934
+1747,"Legal, social and cultural professionals",Rhode Island,job_offer_data,0.003671099623279246
+1748,"Metal, machinery and related trades workers",Rhode Island,job_offer_data,0.0024534328768003166
+1749,Personal service workers,Rhode Island,job_offer_data,0.004096645350980636
+1750,Production and Specialized Services Managers,Rhode Island,job_offer_data,0.002930352984560881
+1751,Sales workers,Rhode Island,job_offer_data,0.005120235714555797
+1752,Science and engineering professionals,Rhode Island,job_offer_data,0.0029567751198968915
+1753,Teaching professionals,Rhode Island,job_offer_data,0.004475967851514287
+1754,Building and Related Trades Workers (excluding Electricians),South Carolina,employment,0.011949079688674901
+1755,Business and administration professionals,South Carolina,employment,0.01738000580192069
+1756,"Chief executives, senior officials and legislators",South Carolina,employment,0.012481479995469927
+1757,Cleaners and helpers,South Carolina,employment,0.007499450715989615
+1758,Commissioned armed forces officers,South Carolina,employment,0.002611459305109326
+1759,Drivers and mobile plant operators,South Carolina,employment,0.008183761594220768
+1760,Electrical and Electronics Trades Workers,South Carolina,employment,0.004547187094212999
+1761,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",South Carolina,employment,0.006734146473995848
+1762,General and keyboard clerks,South Carolina,employment,0.01580769505108204
+1763,Handicraft and printing workers,South Carolina,employment,0.0026768107986952045
+1764,Health professionals,South Carolina,employment,0.01424543545294786
+1765,Information and communications technology professionals,South Carolina,employment,0.005047710368753316
+1766,"Labourers in mining, construction, manufacturing and transport",South Carolina,employment,0.015166667785760696
+1767,"Legal, social and cultural professionals",South Carolina,employment,0.01061934928416175
+1768,Market-oriented skilled agricultural workers,South Carolina,employment,0.0034947083995192137
+1769,"Metal, machinery and related trades workers",South Carolina,employment,0.012847423114461952
+1770,Personal service workers,South Carolina,employment,0.018268221334203125
+1771,Production and Specialized Services Managers,South Carolina,employment,0.0116483743781015
+1772,Sales workers,South Carolina,employment,0.014263030090952618
+1773,Science and engineering professionals,South Carolina,employment,0.010777111785032887
+1774,Stationary plant and machine operators,South Carolina,employment,0.007037910897356683
+1775,Teaching professionals,South Carolina,employment,0.011690051157766798
+1776,Building and Related Trades Workers (excluding Electricians),South Carolina,job_offer_data,0.011965474219742053
+1777,Business and administration professionals,South Carolina,job_offer_data,0.016961057861699574
+1778,"Chief executives, senior officials and legislators",South Carolina,job_offer_data,0.01234886676360252
+1779,Cleaners and helpers,South Carolina,job_offer_data,0.007478213230452955
+1780,Commissioned armed forces officers,South Carolina,job_offer_data,0.002486521986070727
+1781,Drivers and mobile plant operators,South Carolina,job_offer_data,0.008137691512460085
+1782,Electrical and Electronics Trades Workers,South Carolina,job_offer_data,0.004480800134655856
+1783,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",South Carolina,job_offer_data,0.006632665174431843
+1784,General and keyboard clerks,South Carolina,job_offer_data,0.01571340804109814
+1785,Handicraft and printing workers,South Carolina,job_offer_data,0.002550485095359574
+1786,Health professionals,South Carolina,job_offer_data,0.014042854577385215
+1787,Information and communications technology professionals,South Carolina,job_offer_data,0.005104451080876909
+1788,"Labourers in mining, construction, manufacturing and transport",South Carolina,job_offer_data,0.015203221227774283
+1789,"Legal, social and cultural professionals",South Carolina,job_offer_data,0.010613831542987104
+1790,Market-oriented skilled agricultural workers,South Carolina,job_offer_data,0.0033913454983856843
+1791,"Metal, machinery and related trades workers",South Carolina,job_offer_data,0.012834783105020732
+1792,Personal service workers,South Carolina,job_offer_data,0.018572812411036657
+1793,Production and Specialized Services Managers,South Carolina,job_offer_data,0.011650824504893104
+1794,Sales workers,South Carolina,job_offer_data,0.014274550747350219
+1795,Science and engineering professionals,South Carolina,job_offer_data,0.010995241431118997
+1796,Stationary plant and machine operators,South Carolina,job_offer_data,0.006942226872160517
+1797,Teaching professionals,South Carolina,job_offer_data,0.011642778777630994
+1798,Assemblers,South Dakota,employment,0.0005234978957793146
+1799,Building and Related Trades Workers (excluding Electricians),South Dakota,employment,0.002579680226328335
+1800,Business and administration professionals,South Dakota,employment,0.003369582208119902
+1801,"Chief executives, senior officials and legislators",South Dakota,employment,0.002638716870176912
+1802,Cleaners and helpers,South Dakota,employment,0.0022258558202477726
+1803,Drivers and mobile plant operators,South Dakota,employment,0.0016847025117877963
+1804,Electrical and Electronics Trades Workers,South Dakota,employment,0.000911514812197551
+1805,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",South Dakota,employment,0.001505663662027954
+1806,General and keyboard clerks,South Dakota,employment,0.003087965744918207
+1807,Handicraft and printing workers,South Dakota,employment,0.0006488598333045376
+1808,Health professionals,South Dakota,employment,0.0022899518077476575
+1809,Information and communications technology professionals,South Dakota,employment,0.0009602167329510963
+1810,"Labourers in mining, construction, manufacturing and transport",South Dakota,employment,0.002116722492651389
+1811,"Legal, social and cultural professionals",South Dakota,employment,0.002332067498687911
+1812,Market-oriented skilled agricultural workers,South Dakota,employment,0.0006216623211131475
+1813,"Metal, machinery and related trades workers",South Dakota,employment,0.002454104449950322
+1814,Personal service workers,South Dakota,employment,0.004067162366670477
+1815,Production and Specialized Services Managers,South Dakota,employment,0.0037572146502986552
+1816,Sales workers,South Dakota,employment,0.003377823820118393
+1817,Science and engineering professionals,South Dakota,employment,0.0017767728164029219
+1818,Stationary plant and machine operators,South Dakota,employment,0.0012169565896831692
+1819,Teaching professionals,South Dakota,employment,0.002314951357857112
+1820,Assemblers,South Dakota,job_offer_data,0.0004999704993382352
+1821,Building and Related Trades Workers (excluding Electricians),South Dakota,job_offer_data,0.0025747023966489714
+1822,Business and administration professionals,South Dakota,job_offer_data,0.0033418632243796334
+1823,"Chief executives, senior officials and legislators",South Dakota,job_offer_data,0.0026285580006682858
+1824,Cleaners and helpers,South Dakota,job_offer_data,0.002228417702515429
+1825,Drivers and mobile plant operators,South Dakota,job_offer_data,0.0016786270775285303
+1826,Electrical and Electronics Trades Workers,South Dakota,job_offer_data,0.0008870985927466635
+1827,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",South Dakota,job_offer_data,0.0014924353093772357
+1828,General and keyboard clerks,South Dakota,job_offer_data,0.00306263527832693
+1829,Handicraft and printing workers,South Dakota,job_offer_data,0.0006181700091008463
+1830,Health professionals,South Dakota,job_offer_data,0.0023042108026426855
+1831,Information and communications technology professionals,South Dakota,job_offer_data,0.001011637229517927
+1832,"Labourers in mining, construction, manufacturing and transport",South Dakota,job_offer_data,0.0021339406284161407
+1833,"Legal, social and cultural professionals",South Dakota,job_offer_data,0.002336789771731634
+1834,Market-oriented skilled agricultural workers,South Dakota,job_offer_data,0.0005970080858809409
+1835,"Metal, machinery and related trades workers",South Dakota,job_offer_data,0.0024479410121265614
+1836,Personal service workers,South Dakota,job_offer_data,0.004069712245591607
+1837,Production and Specialized Services Managers,South Dakota,job_offer_data,0.003741509164285527
+1838,Sales workers,South Dakota,job_offer_data,0.00338114889868151
+1839,Science and engineering professionals,South Dakota,job_offer_data,0.001786571887021213
+1840,Stationary plant and machine operators,South Dakota,job_offer_data,0.0012061228378984002
+1841,Teaching professionals,South Dakota,job_offer_data,0.002311173707138909
+1842,Assemblers,Tennessee,employment,0.0022139225013224784
+1843,Building and Related Trades Workers (excluding Electricians),Tennessee,employment,0.014284442659701595
+1844,Business and administration professionals,Tennessee,employment,0.018305998484910352
+1845,"Chief executives, senior officials and legislators",Tennessee,employment,0.014783880336100102
+1846,Cleaners and helpers,Tennessee,employment,0.014233996224042223
+1847,Commissioned armed forces officers,Tennessee,employment,0.003972727094721909
+1848,Drivers and mobile plant operators,Tennessee,employment,0.009086705121140883
+1849,Electrical and Electronics Trades Workers,Tennessee,employment,0.007101448845228724
+1850,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Tennessee,employment,0.006506222824233791
+1851,General and keyboard clerks,Tennessee,employment,0.02102034688927391
+1852,Handicraft and printing workers,Tennessee,employment,0.0034966529012413453
+1853,Health professionals,Tennessee,employment,0.01537968737238581
+1854,Information and communications technology professionals,Tennessee,employment,0.011418541005943812
+1855,"Labourers in mining, construction, manufacturing and transport",Tennessee,employment,0.021613667402575913
+1856,"Legal, social and cultural professionals",Tennessee,employment,0.015350141439627393
+1857,Market-oriented skilled agricultural workers,Tennessee,employment,0.003937169104716734
+1858,"Metal, machinery and related trades workers",Tennessee,employment,0.008089726056261355
+1859,Personal service workers,Tennessee,employment,0.026470732062589954
+1860,Production and Specialized Services Managers,Tennessee,employment,0.011946688004964413
+1861,Sales workers,Tennessee,employment,0.014300521021617177
+1862,Science and engineering professionals,Tennessee,employment,0.0100016187128758
+1863,Stationary plant and machine operators,Tennessee,employment,0.007899878054783187
+1864,Teaching professionals,Tennessee,employment,0.015247293117504026
+1865,Assemblers,Tennessee,job_offer_data,0.002099037768495228
+1866,Building and Related Trades Workers (excluding Electricians),Tennessee,job_offer_data,0.014250323709178043
+1867,Business and administration professionals,Tennessee,job_offer_data,0.01816000069906224
+1868,"Chief executives, senior officials and legislators",Tennessee,job_offer_data,0.014760311132184747
+1869,Cleaners and helpers,Tennessee,job_offer_data,0.014073910419962409
+1870,Commissioned armed forces officers,Tennessee,job_offer_data,0.003867453169272055
+1871,Drivers and mobile plant operators,Tennessee,job_offer_data,0.009010622335112229
+1872,Electrical and Electronics Trades Workers,Tennessee,job_offer_data,0.006954023968227577
+1873,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Tennessee,job_offer_data,0.00642656991077779
+1874,General and keyboard clerks,Tennessee,job_offer_data,0.020871644452428326
+1875,Handicraft and printing workers,Tennessee,job_offer_data,0.0033793153382559705
+1876,Health professionals,Tennessee,job_offer_data,0.015183276420667812
+1877,Information and communications technology professionals,Tennessee,job_offer_data,0.011463513394346028
+1878,"Labourers in mining, construction, manufacturing and transport",Tennessee,job_offer_data,0.02152348302066852
+1879,"Legal, social and cultural professionals",Tennessee,job_offer_data,0.01509812995990563
+1880,Market-oriented skilled agricultural workers,Tennessee,job_offer_data,0.0038341366518896292
+1881,"Metal, machinery and related trades workers",Tennessee,job_offer_data,0.00819066298153639
+1882,Personal service workers,Tennessee,job_offer_data,0.02657995741488615
+1883,Production and Specialized Services Managers,Tennessee,job_offer_data,0.0119781339150401
+1884,Sales workers,Tennessee,job_offer_data,0.014390019486788724
+1885,Science and engineering professionals,Tennessee,job_offer_data,0.009909390145878268
+1886,Stationary plant and machine operators,Tennessee,job_offer_data,0.007842206230894589
+1887,Teaching professionals,Tennessee,job_offer_data,0.01520623317268424
+1888,Assemblers,Texas,employment,0.005040404046782947
+1889,Building and Related Trades Workers (excluding Electricians),Texas,employment,0.03628306827077214
+1890,Business and administration professionals,Texas,employment,0.029499636061766334
+1891,"Chief executives, senior officials and legislators",Texas,employment,0.03592322277806562
+1892,Cleaners and helpers,Texas,employment,0.018626737947823407
+1893,Commissioned armed forces officers,Texas,employment,0.005313694484487029
+1894,Drivers and mobile plant operators,Texas,employment,0.030547423009965793
+1895,Electrical and Electronics Trades Workers,Texas,employment,0.016629705493981458
+1896,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Texas,employment,0.01682497206367539
+1897,General and keyboard clerks,Texas,employment,0.04663638007714189
+1898,Handicraft and printing workers,Texas,employment,0.010555685558135934
+1899,Health professionals,Texas,employment,0.029290661209383978
+1900,Information and communications technology professionals,Texas,employment,0.02987265940802345
+1901,"Labourers in mining, construction, manufacturing and transport",Texas,employment,0.04253325948896172
+1902,"Legal, social and cultural professionals",Texas,employment,0.04877142482805141
+1903,Market-oriented skilled agricultural workers,Texas,employment,0.00992380142964946
+1904,"Metal, machinery and related trades workers",Texas,employment,0.036595142773851196
+1905,Personal service workers,Texas,employment,0.06306809405193607
+1906,Production and Specialized Services Managers,Texas,employment,0.02690789606113563
+1907,Sales workers,Texas,employment,0.05011972447000631
+1908,Science and engineering professionals,Texas,employment,0.026295151482624228
+1909,Stationary plant and machine operators,Texas,employment,0.013301489450608954
+1910,Teaching professionals,Texas,employment,0.0411994382346225
+1911,Assemblers,Texas,job_offer_data,0.004928400783854638
+1912,Building and Related Trades Workers (excluding Electricians),Texas,job_offer_data,0.03614708878167676
+1913,Business and administration professionals,Texas,job_offer_data,0.029087653845187814
+1914,"Chief executives, senior officials and legislators",Texas,job_offer_data,0.03583880339133897
+1915,Cleaners and helpers,Texas,job_offer_data,0.018575159437714504
+1916,Commissioned armed forces officers,Texas,job_offer_data,0.005245381819636919
+1917,Drivers and mobile plant operators,Texas,job_offer_data,0.030473372369051774
+1918,Electrical and Electronics Trades Workers,Texas,job_offer_data,0.016635660313045007
+1919,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Texas,job_offer_data,0.016791359471083147
+1920,General and keyboard clerks,Texas,job_offer_data,0.04658429074557597
+1921,Handicraft and printing workers,Texas,job_offer_data,0.010483643302256512
+1922,Health professionals,Texas,job_offer_data,0.02902059852271684
+1923,Information and communications technology professionals,Texas,job_offer_data,0.029893535247829808
+1924,"Labourers in mining, construction, manufacturing and transport",Texas,job_offer_data,0.042539149246263834
+1925,"Legal, social and cultural professionals",Texas,job_offer_data,0.04859490890103752
+1926,Market-oriented skilled agricultural workers,Texas,job_offer_data,0.009839714740711901
+1927,"Metal, machinery and related trades workers",Texas,job_offer_data,0.036549797717579185
+1928,Personal service workers,Texas,job_offer_data,0.06333595559831673
+1929,Production and Specialized Services Managers,Texas,job_offer_data,0.026996010060194024
+1930,Sales workers,Texas,job_offer_data,0.049959208663062894
+1931,Science and engineering professionals,Texas,job_offer_data,0.026092553629607378
+1932,Stationary plant and machine operators,Texas,job_offer_data,0.013238405238707554
+1933,Teaching professionals,Texas,job_offer_data,0.04104384468312376
+1934,Building and Related Trades Workers (excluding Electricians),Utah,employment,0.0066774028855438134
+1935,Business and administration professionals,Utah,employment,0.008087067988182763
+1936,"Chief executives, senior officials and legislators",Utah,employment,0.009206276836121928
+1937,Cleaners and helpers,Utah,employment,0.007592399524234769
+1938,Commissioned armed forces officers,Utah,employment,0.0025863955930826867
+1939,Drivers and mobile plant operators,Utah,employment,0.004693678201087434
+1940,Electrical and Electronics Trades Workers,Utah,employment,0.0031522605512438327
+1941,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Utah,employment,0.0032466941946373415
+1942,General and keyboard clerks,Utah,employment,0.010063643485060355
+1943,Handicraft and printing workers,Utah,employment,0.001848588752784456
+1944,Health professionals,Utah,employment,0.008288815795634867
+1945,Information and communications technology professionals,Utah,employment,0.006025823543226561
+1946,"Labourers in mining, construction, manufacturing and transport",Utah,employment,0.008525425505627937
+1947,"Legal, social and cultural professionals",Utah,employment,0.00860132131552085
+1948,Market-oriented skilled agricultural workers,Utah,employment,0.0018401055662722117
+1949,"Metal, machinery and related trades workers",Utah,employment,0.006798054399258654
+1950,Personal service workers,Utah,employment,0.010751996408622394
+1951,Production and Specialized Services Managers,Utah,employment,0.006722954443248701
+1952,Sales workers,Utah,employment,0.005536008779283483
+1953,Science and engineering professionals,Utah,employment,0.005667426627313543
+1954,Stationary plant and machine operators,Utah,employment,0.003761534913907667
+1955,Teaching professionals,Utah,employment,0.007777141074782405
+1956,Building and Related Trades Workers (excluding Electricians),Utah,job_offer_data,0.006663245309222894
+1957,Business and administration professionals,Utah,job_offer_data,0.00805451689130203
+1958,"Chief executives, senior officials and legislators",Utah,job_offer_data,0.009131708171057951
+1959,Cleaners and helpers,Utah,job_offer_data,0.007530413479650858
+1960,Commissioned armed forces officers,Utah,job_offer_data,0.002557023748677784
+1961,Drivers and mobile plant operators,Utah,job_offer_data,0.004683676351504647
+1962,Electrical and Electronics Trades Workers,Utah,job_offer_data,0.0031386094101091035
+1963,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Utah,job_offer_data,0.003224944058100093
+1964,General and keyboard clerks,Utah,job_offer_data,0.010051023137892422
+1965,Handicraft and printing workers,Utah,job_offer_data,0.001815588407614547
+1966,Health professionals,Utah,job_offer_data,0.008258591924870844
+1967,Information and communications technology professionals,Utah,job_offer_data,0.005931417670046707
+1968,"Labourers in mining, construction, manufacturing and transport",Utah,job_offer_data,0.008545873716604696
+1969,"Legal, social and cultural professionals",Utah,job_offer_data,0.00856306399058801
+1970,Market-oriented skilled agricultural workers,Utah,job_offer_data,0.001802957055285007
+1971,"Metal, machinery and related trades workers",Utah,job_offer_data,0.0067837374647160805
+1972,Personal service workers,Utah,job_offer_data,0.010711514966452665
+1973,Production and Specialized Services Managers,Utah,job_offer_data,0.006715178936029257
+1974,Sales workers,Utah,job_offer_data,0.0055834858988469
+1975,Science and engineering professionals,Utah,job_offer_data,0.005629755822867745
+1976,Stationary plant and machine operators,Utah,job_offer_data,0.003741044841926722
+1977,Teaching professionals,Utah,job_offer_data,0.0077360578365905435
+1978,Business and administration professionals,Vermont,employment,0.0021407958474701384
+1979,"Chief executives, senior officials and legislators",Vermont,employment,0.0015187041714190069
+1980,Cleaners and helpers,Vermont,employment,0.002154690720287653
+1981,Drivers and mobile plant operators,Vermont,employment,0.0010422517182668294
+1982,Electrical and Electronics Trades Workers,Vermont,employment,0.0012187333256992773
+1983,General and keyboard clerks,Vermont,employment,0.0022259583112411575
+1984,Health professionals,Vermont,employment,0.0018357533458373807
+1985,Information and communications technology professionals,Vermont,employment,0.0011006869183976821
+1986,"Labourers in mining, construction, manufacturing and transport",Vermont,employment,0.0019292990669688454
+1987,"Legal, social and cultural professionals",Vermont,employment,0.0023649496481579603
+1988,Personal service workers,Vermont,employment,0.0029278762550226647
+1989,Production and Specialized Services Managers,Vermont,employment,0.001699319521758629
+1990,Sales workers,Vermont,employment,0.0023732587602025186
+1991,Science and engineering professionals,Vermont,employment,0.0018201321935164291
+1992,Teaching professionals,Vermont,employment,0.0018989038813460573
+1993,Business and administration professionals,Vermont,job_offer_data,0.002133962450576406
+1994,"Chief executives, senior officials and legislators",Vermont,job_offer_data,0.0015198040091141665
+1995,Cleaners and helpers,Vermont,job_offer_data,0.0021482007775177085
+1996,Drivers and mobile plant operators,Vermont,job_offer_data,0.0010207422901578676
+1997,Electrical and Electronics Trades Workers,Vermont,job_offer_data,0.0012506029478699507
+1998,General and keyboard clerks,Vermont,job_offer_data,0.002230120830061895
+1999,Health professionals,Vermont,job_offer_data,0.0018209826875993677
+2000,Information and communications technology professionals,Vermont,job_offer_data,0.0010986298880182647
+2001,"Labourers in mining, construction, manufacturing and transport",Vermont,job_offer_data,0.001912304602566246
+2002,"Legal, social and cultural professionals",Vermont,job_offer_data,0.0023487865951113763
+2003,Personal service workers,Vermont,job_offer_data,0.0029373281001748588
+2004,Production and Specialized Services Managers,Vermont,job_offer_data,0.0016882732483793617
+2005,Sales workers,Vermont,job_offer_data,0.0023663038407155763
+2006,Science and engineering professionals,Vermont,job_offer_data,0.0018191911716055214
+2007,Teaching professionals,Vermont,job_offer_data,0.001900730360691905
+2008,Building and Related Trades Workers (excluding Electricians),Virginia,employment,0.021752429603255023
+2009,Business and administration professionals,Virginia,employment,0.030401759059779498
+2010,"Chief executives, senior officials and legislators",Virginia,employment,0.027549412320811564
+2011,Cleaners and helpers,Virginia,employment,0.01369123950971903
+2012,Commissioned armed forces officers,Virginia,employment,0.0039715873882829635
+2013,Drivers and mobile plant operators,Virginia,employment,0.013588154324680095
+2014,Electrical and Electronics Trades Workers,Virginia,employment,0.012481592452758759
+2015,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Virginia,employment,0.008050121210675026
+2016,General and keyboard clerks,Virginia,employment,0.02761064519241383
+2017,Handicraft and printing workers,Virginia,employment,0.0030683791132338567
+2018,Health professionals,Virginia,employment,0.020785026782978493
+2019,Information and communications technology professionals,Virginia,employment,0.023840275547675586
+2020,"Labourers in mining, construction, manufacturing and transport",Virginia,employment,0.014884661480994826
+2021,"Legal, social and cultural professionals",Virginia,employment,0.019979570912339855
+2022,Market-oriented skilled agricultural workers,Virginia,employment,0.0035162126733821668
+2023,"Metal, machinery and related trades workers",Virginia,employment,0.01313179492343233
+2024,Personal service workers,Virginia,employment,0.02724373029034586
+2025,Production and Specialized Services Managers,Virginia,employment,0.0153301347385522
+2026,Sales workers,Virginia,employment,0.024994486122115033
+2027,Science and engineering professionals,Virginia,employment,0.02135580318946253
+2028,Stationary plant and machine operators,Virginia,employment,0.00795780955695041
+2029,Teaching professionals,Virginia,employment,0.021915391489144877
+2030,Building and Related Trades Workers (excluding Electricians),Virginia,job_offer_data,0.02164165905924505
+2031,Business and administration professionals,Virginia,job_offer_data,0.03026063034642219
+2032,"Chief executives, senior officials and legislators",Virginia,job_offer_data,0.02732916183292413
+2033,Cleaners and helpers,Virginia,job_offer_data,0.013684563377494074
+2034,Commissioned armed forces officers,Virginia,job_offer_data,0.004022601011045192
+2035,Drivers and mobile plant operators,Virginia,job_offer_data,0.013401382937072392
+2036,Electrical and Electronics Trades Workers,Virginia,job_offer_data,0.012358765000936422
+2037,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Virginia,job_offer_data,0.007993613388557003
+2038,General and keyboard clerks,Virginia,job_offer_data,0.02751059755665782
+2039,Handicraft and printing workers,Virginia,job_offer_data,0.0030436144982906614
+2040,Health professionals,Virginia,job_offer_data,0.020618571986315407
+2041,Information and communications technology professionals,Virginia,job_offer_data,0.023887772577855258
+2042,"Labourers in mining, construction, manufacturing and transport",Virginia,job_offer_data,0.014606262013783495
+2043,"Legal, social and cultural professionals",Virginia,job_offer_data,0.019853405593379152
+2044,Market-oriented skilled agricultural workers,Virginia,job_offer_data,0.003450510805132179
+2045,"Metal, machinery and related trades workers",Virginia,job_offer_data,0.013060598191832902
+2046,Personal service workers,Virginia,job_offer_data,0.02719932607858997
+2047,Production and Specialized Services Managers,Virginia,job_offer_data,0.015359475306476045
+2048,Sales workers,Virginia,job_offer_data,0.024834471461787095
+2049,Science and engineering professionals,Virginia,job_offer_data,0.02122595720179365
+2050,Stationary plant and machine operators,Virginia,job_offer_data,0.007896431119156177
+2051,Teaching professionals,Virginia,job_offer_data,0.021845589093630283
+2052,Assemblers,Washington,employment,0.0026232429791191243
+2053,Building and Related Trades Workers (excluding Electricians),Washington,employment,0.016618124742151283
+2054,Business and administration professionals,Washington,employment,0.018323081259635797
+2055,"Chief executives, senior officials and legislators",Washington,employment,0.016624972483196256
+2056,Cleaners and helpers,Washington,employment,0.02229422297678998
+2057,Commissioned armed forces officers,Washington,employment,0.006495287449591904
+2058,Drivers and mobile plant operators,Washington,employment,0.012026635020442418
+2059,Electrical and Electronics Trades Workers,Washington,employment,0.006335032983812252
+2060,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Washington,employment,0.009932846431573897
+2061,General and keyboard clerks,Washington,employment,0.020301807928877088
+2062,Handicraft and printing workers,Washington,employment,0.003979631507371248
+2063,Health professionals,Washington,employment,0.019247207458609316
+2064,Information and communications technology professionals,Washington,employment,0.019459211678095834
+2065,"Labourers in mining, construction, manufacturing and transport",Washington,employment,0.019942587467284806
+2066,"Legal, social and cultural professionals",Washington,employment,0.021893782838144762
+2067,Market-oriented skilled agricultural workers,Washington,employment,0.003862469590249502
+2068,"Metal, machinery and related trades workers",Washington,employment,0.01328931034997687
+2069,Personal service workers,Washington,employment,0.02568889314785408
+2070,Production and Specialized Services Managers,Washington,employment,0.01884036088027132
+2071,Sales workers,Washington,employment,0.017219428352778742
+2072,Science and engineering professionals,Washington,employment,0.01595548021021915
+2073,Stationary plant and machine operators,Washington,employment,0.005632661782972126
+2074,Teaching professionals,Washington,employment,0.019760593773278066
+2075,Assemblers,Washington,job_offer_data,0.0026241451988466102
+2076,Building and Related Trades Workers (excluding Electricians),Washington,job_offer_data,0.016478622326275918
+2077,Business and administration professionals,Washington,job_offer_data,0.018188822291189784
+2078,"Chief executives, senior officials and legislators",Washington,job_offer_data,0.016424065616939616
+2079,Cleaners and helpers,Washington,job_offer_data,0.02211578493687481
+2080,Commissioned armed forces officers,Washington,job_offer_data,0.006425568365107227
+2081,Drivers and mobile plant operators,Washington,job_offer_data,0.01200894806492449
+2082,Electrical and Electronics Trades Workers,Washington,job_offer_data,0.006287225214545837
+2083,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Washington,job_offer_data,0.00984620160836347
+2084,General and keyboard clerks,Washington,job_offer_data,0.020278193716560155
+2085,Handicraft and printing workers,Washington,job_offer_data,0.003916875815574455
+2086,Health professionals,Washington,job_offer_data,0.019172523873095752
+2087,Information and communications technology professionals,Washington,job_offer_data,0.019372193943998223
+2088,"Labourers in mining, construction, manufacturing and transport",Washington,job_offer_data,0.01976146008736263
+2089,"Legal, social and cultural professionals",Washington,job_offer_data,0.02172931602983106
+2090,Market-oriented skilled agricultural workers,Washington,job_offer_data,0.003791042415269306
+2091,"Metal, machinery and related trades workers",Washington,job_offer_data,0.013242405706001017
+2092,Personal service workers,Washington,job_offer_data,0.025806647990908396
+2093,Production and Specialized Services Managers,Washington,job_offer_data,0.018823607946476625
+2094,Sales workers,Washington,job_offer_data,0.017265884029918913
+2095,Science and engineering professionals,Washington,job_offer_data,0.015949857848645752
+2096,Stationary plant and machine operators,Washington,job_offer_data,0.005552926788788516
+2097,Teaching professionals,Washington,job_offer_data,0.019684480490985024
+2098,Building and Related Trades Workers (excluding Electricians),West Virginia,employment,0.0024179354934794994
+2099,Business and administration professionals,West Virginia,employment,0.003054618962215915
+2100,"Chief executives, senior officials and legislators",West Virginia,employment,0.004161880819758519
+2101,Cleaners and helpers,West Virginia,employment,0.00269396702202632
+2102,Commissioned armed forces officers,West Virginia,employment,0.0006734869404168286
+2103,Drivers and mobile plant operators,West Virginia,employment,0.0027645704384158315
+2104,Electrical and Electronics Trades Workers,West Virginia,employment,0.0016595439040074658
+2105,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",West Virginia,employment,0.0020963243009062982
+2106,General and keyboard clerks,West Virginia,employment,0.0038803222726109237
+2107,Handicraft and printing workers,West Virginia,employment,0.0008348975090691741
+2108,Health professionals,West Virginia,employment,0.004309138973741987
+2109,Information and communications technology professionals,West Virginia,employment,0.0019562462068731107
+2110,"Labourers in mining, construction, manufacturing and transport",West Virginia,employment,0.005381589097558623
+2111,"Legal, social and cultural professionals",West Virginia,employment,0.0033095354994332085
+2112,Market-oriented skilled agricultural workers,West Virginia,employment,0.0015857599755974147
+2113,"Metal, machinery and related trades workers",West Virginia,employment,0.0029931516940577925
+2114,Personal service workers,West Virginia,employment,0.00547272676661535
+2115,Production and Specialized Services Managers,West Virginia,employment,0.003584763915723613
+2116,Sales workers,West Virginia,employment,0.004627942910515648
+2117,Science and engineering professionals,West Virginia,employment,0.0031289448305923512
+2118,Stationary plant and machine operators,West Virginia,employment,0.0021547991007779136
+2119,Teaching professionals,West Virginia,employment,0.003830862649601466
+2120,Building and Related Trades Workers (excluding Electricians),West Virginia,job_offer_data,0.0024073813266505427
+2121,Business and administration professionals,West Virginia,job_offer_data,0.0030634060320738196
+2122,"Chief executives, senior officials and legislators",West Virginia,job_offer_data,0.004162567683082094
+2123,Cleaners and helpers,West Virginia,job_offer_data,0.0026898624856332583
+2124,Commissioned armed forces officers,West Virginia,job_offer_data,0.0006581532447124418
+2125,Drivers and mobile plant operators,West Virginia,job_offer_data,0.0027692497691031407
+2126,Electrical and Electronics Trades Workers,West Virginia,job_offer_data,0.0016560689047807951
+2127,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",West Virginia,job_offer_data,0.0020871858519521257
+2128,General and keyboard clerks,West Virginia,job_offer_data,0.0038773614505441625
+2129,Handicraft and printing workers,West Virginia,job_offer_data,0.0008197407277723463
+2130,Health professionals,West Virginia,job_offer_data,0.004307470289315794
+2131,Information and communications technology professionals,West Virginia,job_offer_data,0.001965056034922593
+2132,"Labourers in mining, construction, manufacturing and transport",West Virginia,job_offer_data,0.005390937951958304
+2133,"Legal, social and cultural professionals",West Virginia,job_offer_data,0.0033321444890906005
+2134,Market-oriented skilled agricultural workers,West Virginia,job_offer_data,0.0015766509318509796
+2135,"Metal, machinery and related trades workers",West Virginia,job_offer_data,0.0029862431104497786
+2136,Personal service workers,West Virginia,job_offer_data,0.00547084381574456
+2137,Production and Specialized Services Managers,West Virginia,job_offer_data,0.003583201638200238
+2138,Sales workers,West Virginia,job_offer_data,0.004629985515914357
+2139,Science and engineering professionals,West Virginia,job_offer_data,0.003111886309477304
+2140,Stationary plant and machine operators,West Virginia,job_offer_data,0.0021437454242371266
+2141,Teaching professionals,West Virginia,job_offer_data,0.003823956926216806
+2142,Assemblers,Wisconsin,employment,0.0037148935860853117
+2143,Building and Related Trades Workers (excluding Electricians),Wisconsin,employment,0.012176532020559187
+2144,Business and administration professionals,Wisconsin,employment,0.014909109862725117
+2145,"Chief executives, senior officials and legislators",Wisconsin,employment,0.016197873778239814
+2146,Cleaners and helpers,Wisconsin,employment,0.012923228113355391
+2147,Commissioned armed forces officers,Wisconsin,employment,0.004536517453308163
+2148,Drivers and mobile plant operators,Wisconsin,employment,0.010350728260339802
+2149,Electrical and Electronics Trades Workers,Wisconsin,employment,0.004239858297058563
+2150,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Wisconsin,employment,0.007038143006814371
+2151,General and keyboard clerks,Wisconsin,employment,0.01889552822595452
+2152,Handicraft and printing workers,Wisconsin,employment,0.004262326102576598
+2153,Health professionals,Wisconsin,employment,0.014190053351965121
+2154,Information and communications technology professionals,Wisconsin,employment,0.009975252348609858
+2155,"Labourers in mining, construction, manufacturing and transport",Wisconsin,employment,0.02127147355760869
+2156,"Legal, social and cultural professionals",Wisconsin,employment,0.012886634010341767
+2157,Market-oriented skilled agricultural workers,Wisconsin,employment,0.003561594042049514
+2158,"Metal, machinery and related trades workers",Wisconsin,employment,0.011563959692218035
+2159,Personal service workers,Wisconsin,employment,0.016172162285582225
+2160,Production and Specialized Services Managers,Wisconsin,employment,0.011333293084797774
+2161,Sales workers,Wisconsin,employment,0.016423058716580705
+2162,Science and engineering professionals,Wisconsin,employment,0.011289033772508922
+2163,Stationary plant and machine operators,Wisconsin,employment,0.008098619749383805
+2164,Teaching professionals,Wisconsin,employment,0.01697150016692327
+2165,Assemblers,Wisconsin,job_offer_data,0.003645751144520656
+2166,Building and Related Trades Workers (excluding Electricians),Wisconsin,job_offer_data,0.012121259612290014
+2167,Business and administration professionals,Wisconsin,job_offer_data,0.014809416376507593
+2168,"Chief executives, senior officials and legislators",Wisconsin,job_offer_data,0.015908641007873706
+2169,Cleaners and helpers,Wisconsin,job_offer_data,0.012913490672767662
+2170,Commissioned armed forces officers,Wisconsin,job_offer_data,0.004472202381963328
+2171,Drivers and mobile plant operators,Wisconsin,job_offer_data,0.010244164294322223
+2172,Electrical and Electronics Trades Workers,Wisconsin,job_offer_data,0.004202799255202228
+2173,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",Wisconsin,job_offer_data,0.0069652960812717065
+2174,General and keyboard clerks,Wisconsin,job_offer_data,0.01885469777165117
+2175,Handicraft and printing workers,Wisconsin,job_offer_data,0.004178128583723183
+2176,Health professionals,Wisconsin,job_offer_data,0.013801397583301357
+2177,Information and communications technology professionals,Wisconsin,job_offer_data,0.010002948313933922
+2178,"Labourers in mining, construction, manufacturing and transport",Wisconsin,job_offer_data,0.021220035971073775
+2179,"Legal, social and cultural professionals",Wisconsin,job_offer_data,0.012932151151641291
+2180,Market-oriented skilled agricultural workers,Wisconsin,job_offer_data,0.00345325519189716
+2181,"Metal, machinery and related trades workers",Wisconsin,job_offer_data,0.011555885165975088
+2182,Personal service workers,Wisconsin,job_offer_data,0.016424838749538304
+2183,Production and Specialized Services Managers,Wisconsin,job_offer_data,0.011202430636955085
+2184,Sales workers,Wisconsin,job_offer_data,0.0163101857516273
+2185,Science and engineering professionals,Wisconsin,job_offer_data,0.011282814382489775
+2186,Stationary plant and machine operators,Wisconsin,job_offer_data,0.00805448688599882
+2187,Teaching professionals,Wisconsin,job_offer_data,0.016869358034643577
+2188,Building and Related Trades Workers (excluding Electricians),Wyoming,employment,0.001067567896176023
+2189,Business and administration professionals,Wyoming,employment,0.0017483604971888676
+2190,"Chief executives, senior officials and legislators",Wyoming,employment,0.0014931489709204013
+2191,Cleaners and helpers,Wyoming,employment,0.0016547488447913752
+2192,Drivers and mobile plant operators,Wyoming,employment,0.0016228110123948087
+2193,Electrical and Electronics Trades Workers,Wyoming,employment,0.0006560522595023835
+2194,General and keyboard clerks,Wyoming,employment,0.0013307023076982185
+2195,Health professionals,Wyoming,employment,0.002066751097655583
+2196,Information and communications technology professionals,Wyoming,employment,0.0007225661652624711
+2197,"Labourers in mining, construction, manufacturing and transport",Wyoming,employment,0.002360398579223519
+2198,"Legal, social and cultural professionals",Wyoming,employment,0.002029969431040364
+2199,"Metal, machinery and related trades workers",Wyoming,employment,0.0010404424574201308
+2200,Personal service workers,Wyoming,employment,0.002641135757831083
+2201,Production and Specialized Services Managers,Wyoming,employment,0.002361205119500839
+2202,Sales workers,Wyoming,employment,0.0012108962248923549
+2203,Science and engineering professionals,Wyoming,employment,0.001380193645939029
+2204,Stationary plant and machine operators,Wyoming,employment,0.0008631591297268511
+2205,Teaching professionals,Wyoming,employment,0.001651165984140645
+2206,Building and Related Trades Workers (excluding Electricians),Wyoming,job_offer_data,0.0010697229764491303
+2207,Business and administration professionals,Wyoming,job_offer_data,0.0017361506491921743
+2208,"Chief executives, senior officials and legislators",Wyoming,job_offer_data,0.0014875122094782454
+2209,Cleaners and helpers,Wyoming,job_offer_data,0.0016409112365220464
+2210,Drivers and mobile plant operators,Wyoming,job_offer_data,0.0016152775181210517
+2211,Electrical and Electronics Trades Workers,Wyoming,job_offer_data,0.0006378996877767102
+2212,General and keyboard clerks,Wyoming,job_offer_data,0.0013214685763657478
+2213,Health professionals,Wyoming,job_offer_data,0.0020675159715601585
+2214,Information and communications technology professionals,Wyoming,job_offer_data,0.0007308790939624972
+2215,"Labourers in mining, construction, manufacturing and transport",Wyoming,job_offer_data,0.002357909466053946
+2216,"Legal, social and cultural professionals",Wyoming,job_offer_data,0.00205239663068983
+2217,"Metal, machinery and related trades workers",Wyoming,job_offer_data,0.0010251723561110209
+2218,Personal service workers,Wyoming,job_offer_data,0.0026581357410122453
+2219,Production and Specialized Services Managers,Wyoming,job_offer_data,0.002346589073952236
+2220,Sales workers,Wyoming,job_offer_data,0.0012078682990435676
+2221,Science and engineering professionals,Wyoming,job_offer_data,0.001383336411251957
+2222,Stationary plant and machine operators,Wyoming,job_offer_data,0.0008450107307948409
+2223,Teaching professionals,Wyoming,job_offer_data,0.0016460246417066638

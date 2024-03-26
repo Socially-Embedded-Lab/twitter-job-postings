@@ -1,0 +1,2 @@
+The Data for JOLTS can be downloaded and collected from:
+https://download.bls.gov/pub/time.series/jt/
