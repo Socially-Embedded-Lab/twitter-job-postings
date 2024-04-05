@@ -1,5 +1,6 @@
 # <div align="center">**280 Characters to Employment**</div>
 ## <div align="center">**Using Twitter to Quantify Job Vacancies**</div>
+
 ![Twitter Geographical Representativeness](data/analyze_tweets/figs/state_twitter_jolt_monthly_state_normalized_line.png)
 ## Table of Contents
 - [Paper Summary](#paper-summary)

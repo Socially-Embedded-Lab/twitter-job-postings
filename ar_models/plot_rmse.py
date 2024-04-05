@@ -63,6 +63,10 @@ occ_map = {
     'Teaching Professionals': 'Teaching Professionals',
 }
 
+state_code_df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv', usecols=['code', 'state'])
+state_code_df = pd.concat([state_code_df, pd.DataFrame({'state': 'District of Columbia', 'code': 'DC'}, index=[0])])
+state_code_df = state_code_df.set_index('state')
+
 df['occupation_name_short'] = df['occupation_name'].apply(lambda occ: occ_map[occ])
 df = df.sort_values(['state_name', 'occupation_name_short'], ascending=[True, False])
 nan_color = 'black'
@@ -82,25 +86,44 @@ fig = px.density_heatmap(df,
                          color_continuous_scale=color_map,
                          color_continuous_midpoint=0
                          )
-subtitle_size = 45
-fig.update_yaxes(title='Occupation Name')
-fig.update_xaxes(title='State Name')
+subtitle_size = 60
+# Customizing x-axis tick labels
+xtick_font_size = 55
+ytick_font_size = 55
+
+# state_names = df['state_name'].unique()
+state_names = state_code_df.loc[df['state_name'].unique()]['code']
+ticktext = [f"<b>{name}</b>" for name in state_names]
+
+fig.update_xaxes(
+    title='State Name',
+    tickfont=dict(size=xtick_font_size),
+    titlefont=dict(size=subtitle_size),
+    tickvals=np.arange(len(df['state_name'].unique())),  # Use index as tick values
+    ticktext=ticktext  # Use customized tick labels
+)
+
+# Customizing y-axis tick labels
+fig.update_yaxes(
+    title='Occupation Name',
+    tickfont=dict(size=ytick_font_size),
+    titlefont=dict(size=subtitle_size),
+    tickvals=np.arange(len(df['occupation_name_short'].unique())),  # Use index as tick values
+    ticktext=df['occupation_name_short'].unique()  # Use occupation names as tick labels
+)
+
+# Customizing colorbar
 fig.layout.coloraxis.colorbar.title = 'RMSE improvement(%)'
 fig.layout.coloraxis.colorbar.orientation = 'v'
 fig.layout.coloraxis.colorbar.title.side = 'right'
-fig.layout.coloraxis.colorbar.tickfont.size = 40
+fig.layout.coloraxis.colorbar.tickfont.size = 45
 fig.layout.coloraxis.colorbar.titlefont.size = subtitle_size
-xtick_font_size = subtitle_size + 5
-ytick_font_size = subtitle_size
+
+# Customizing layout
 fig.layout.title.font.size = 70
-fig.layout.xaxis.tickfont.size = xtick_font_size
-fig.layout.xaxis.titlefont.size = subtitle_size
-fig.layout.xaxis.tickangle = 60
-fig.layout.yaxis.tickfont.size = ytick_font_size
-fig.layout.yaxis.titlefont.size = subtitle_size
-fig.layout.yaxis.tickangle = 15
+fig.update_layout(title_xanchor='left', title_xref='paper')
+
 fig.update_layout(title_xanchor='left', title_xref='paper')
 pio.write_image(fig, 'rmse_heatmap.png', height=2000, width=6000)
 fig.write_html(f'rmse_heatmap.html', default_height=2000, default_width=6000)
-fig.write_image(f'rmse_heatmap.pdf', height=2000, width=6000)
-
+fig.write_image(f'rmse_heatmap.pdf', height=2500, width=7500)
