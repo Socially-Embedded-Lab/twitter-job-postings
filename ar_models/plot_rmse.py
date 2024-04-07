@@ -78,6 +78,7 @@ color_map.insert(mid_point, [0.5 - 1e-9, orig_color])
 color_map.insert(mid_point + 2, [0.5 + 1e-9, orig_color])
 color_map[0] = [0.0, '#001738']
 color_map[-1] = [1.0, '#4c0815']
+# color_map = color_map[1:-1]
 
 fig = px.density_heatmap(df,
                          "state_name",
@@ -86,10 +87,9 @@ fig = px.density_heatmap(df,
                          color_continuous_scale=color_map,
                          color_continuous_midpoint=0
                          )
-subtitle_size = 60
+subtitle_size = 90
 # Customizing x-axis tick labels
-xtick_font_size = 55
-ytick_font_size = 55
+tick_font_size = 85
 
 # state_names = df['state_name'].unique()
 state_names = state_code_df.loc[df['state_name'].unique()]['code']
@@ -97,33 +97,34 @@ ticktext = [f"<b>{name}</b>" for name in state_names]
 
 fig.update_xaxes(
     title='State Name',
-    tickfont=dict(size=xtick_font_size),
     titlefont=dict(size=subtitle_size),
+    tickfont=dict(size=tick_font_size),
     tickvals=np.arange(len(df['state_name'].unique())),  # Use index as tick values
-    ticktext=ticktext  # Use customized tick labels
+    ticktext=state_names  # Use customized tick labels
 )
 
 # Customizing y-axis tick labels
 fig.update_yaxes(
     title='Occupation Name',
-    tickfont=dict(size=ytick_font_size),
     titlefont=dict(size=subtitle_size),
+    tickfont=dict(size=tick_font_size),
     tickvals=np.arange(len(df['occupation_name_short'].unique())),  # Use index as tick values
     ticktext=df['occupation_name_short'].unique()  # Use occupation names as tick labels
 )
 
 # Customizing colorbar
 fig.layout.coloraxis.colorbar.title = 'RMSE improvement(%)'
+fig.layout.coloraxis.colorbar.titlefont.size = subtitle_size
 fig.layout.coloraxis.colorbar.orientation = 'v'
 fig.layout.coloraxis.colorbar.title.side = 'right'
-fig.layout.coloraxis.colorbar.tickfont.size = 45
-fig.layout.coloraxis.colorbar.titlefont.size = subtitle_size
+fig.layout.coloraxis.colorbar.tickfont.size = tick_font_size
 
 # Customizing layout
-fig.layout.title.font.size = 70
+fig.layout.title.font.size = subtitle_size
 fig.update_layout(title_xanchor='left', title_xref='paper')
 
 fig.update_layout(title_xanchor='left', title_xref='paper')
 pio.write_image(fig, 'rmse_heatmap.png', height=2000, width=6000)
+pio.write_image(fig, 'rmse_heatmap.svg', height=2000, width=6000)
 fig.write_html(f'rmse_heatmap.html', default_height=2000, default_width=6000)
-fig.write_image(f'rmse_heatmap.pdf', height=2500, width=7500)
+fig.write_image(f'rmse_heatmap.pdf', height=3000, width=9500)
