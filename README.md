@@ -17,6 +17,8 @@
 ___
 ## Paper Summary
 This paper investigates the potential of social media, specifically Twitter, to provide a complementary signal for estimating labor market demand. We introduce a statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022 and evaluate it against official statistics and an index from a large aggregator of online job postings. The findings suggest that the Twitter-based index is strongly correlated with official statistics and can improve the prediction of official statistics across occupations and states.
+
+If you use code or data from this repository, please [cite our ICWSM paper](#how-to-cite).
 ___
 ## Repository Contents
 - `ar_models`: Directory containing scripts to perform AR on Twitter Index. More information under [`AR Models`](#ar-models) section.
@@ -109,7 +111,24 @@ The code used in this study and provided here includes the methodology for accur
 As Twitter information cannot be shared it is not included here.
 ___
 ## How to Cite
-Please refer to the ICWSM page for citation details and to access the full paper.
+
+Please cite our work as follows: 
+
+```
+Sobol Portnov, B., Tonneau, M., Lee, D., Fraiberger, S., & Grinberg, N. (2024). 280 Characters to Employment: Using Twitter to Quantify Job Vacancies [Conference paper]. Proceedings of the Eighteenth International AAAI Conference on Web and Social Media (ICWSM)
+```
+
+or in BibTex, using:
+```
+@inproceedings{Sobol_Portnov_280_Characters_to_2024,
+author = {Sobol Portnov, Boris and Tonneau, Manuel and Lee, Do and Fraiberger, Samuel and Grinberg, Nir},
+booktitle = {Proceedings of the Eighteenth International AAAI Conference on Web and Social Media (ICWSM)},
+month = jun,
+series = {International Conference on Web and Social Media (ICWSM) 2024},
+title = {{280 Characters to Employment: Using Twitter to Quantify Job Vacancies}},
+year = {2024}
+}
+```
 ___
 ## License
 The assets in this repository are subject to their respective licenses. Usage complies with the requirements set forth by the data providers.
