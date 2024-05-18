@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: >-
+  280 Characters to Employment: Using Twitter to Quantify Job Vacancies
+message: >-
+  If you use code in this repository or the associated
+  data, please cite our ICWSM paper.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Sobol Portnov
+    email: boris.sobol@gmail.com
+  - given-names: Manuel 
+    family-names: Tonneau
+    email: manuel.tonneau@oii.ox.ac.uk
+  - given-names: Do
+    family-names: Lee
+    email: dq1204@nyu.edu
+  - given-names: Samuel 
+    family-names: Fraiberger
+    email: sfraiberger@worldbank.org
+  - given-names: Nir
+    family-names: Grinberg
+    email: nirgrn@bgu.ac.il
+    affiliation: Ben-Gurion University
+    orcid: 'https://orcid.org/0000-0002-1277-894X'
+repository-artifact: 'https://doi.org/10.7910/DVN/RQBWAC'
+license: CC-BY-NC-SA-4.0
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Boris
+      family-names: Sobol Portnov
+      email: boris.sobol@gmail.com
+    - given-names: Manuel 
+      family-names: Tonneau
+      email: manuel.tonneau@oii.ox.ac.uk
+    - given-names: Do
+      family-names: Lee
+      email: dq1204@nyu.edu
+    - given-names: Samuel 
+      family-names: Fraiberger
+      email: sfraiberger@worldbank.org
+    - given-names: Nir
+      family-names: Grinberg
+      email: nirgrn@bgu.ac.il
+      affiliation: Ben-Gurion University
+      orcid: 'https://orcid.org/0000-0002-1277-894X'
+  title: "280 Characters to Employment: Using Twitter to Quantify Job Vacancies"
+  month: 6
+  collection-title: "Proceedings of the Eighteenth International AAAI Conference on Web and Social Media (ICWSM)"
+  collection-type: proceedings
+  conference:
+    name: "International Conference on Web and Social Media (ICWSM) 2024"
+  year: 2024
